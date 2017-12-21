@@ -4,6 +4,7 @@
 - [Graph Databases for Beginners: A Tour of Aggregate Stores](https://neo4j.com/blog/aggregate-stores-tour/)
 - [RDBMSs vs. NoSQL Databases: Overview](http://maxivak.com/rdbms-vs-nosql-databases/)
 
+![Visual Guide to NoSQL Systems](http://maxivak.com/wp-content/uploads/2011/07/media_httpfarm5static_mevIk.png)
 
 # NoSQL
 - Key-Value
