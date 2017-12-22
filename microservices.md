@@ -10,6 +10,10 @@
 - [Microservices and Rules Engines – a blast from the past - Udi Dahan](https://www.youtube.com/watch?v=Fuac__g928E)
 -
 
+### PDFs:
+
+- [Your Coffee Shop Doesn’t Use Two-Phase Commit](https://martinfowler.com/ieeeSoftware/coffeeShop.pdf)
+
 ### Projects:
 
 - [Workshop (with examples in NServiceBus)](https://github.com/Particular/Workshop)
