@@ -18,6 +18,7 @@
 
 - [Workshop (with examples in NServiceBus)](https://github.com/Particular/Workshop)
 
-### Message Brokers:
+### EDA:
 
 - [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
+- [Events, Flows and Long-Running Services: A Modern Approach to Workflow Automation](https://www.infoq.com/articles/events-workflow-automation)
