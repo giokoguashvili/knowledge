@@ -22,3 +22,11 @@
 
 - [Introducing Functions as a Service (OpenFaaS)](https://blog.alexellis.io/introducing-functions-as-a-service/)
 - [stdlib](https://stdlib.com/)
+
+
+# Container Infrastucture
+
+- ElasticBeanstalk
+- ECS
+- Docker Cloud
+- Nomad / Mesos / Kubernetes
