@@ -15,3 +15,9 @@
 - **Synchronization:** NTP, vector clocks
 - **Consensus:** Paxos, Zookeeper
 - **Messagein:** Kafka
+
+### Technique
+
+- **Read Replication**
+- **Sharding**
+- **Consistent Hashing**
