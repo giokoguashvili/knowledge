@@ -20,4 +20,6 @@
 
 - **Read Replication**
 - **Sharding**
-- **Consistent Hashing**
+- [Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
+- **CAP Theorem**
+- **Distributed Transactions**
