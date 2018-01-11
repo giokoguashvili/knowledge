@@ -9,6 +9,11 @@
 - State handling & persistence
 - Versioning
 
+### Sagas
+
+> Sagas are, in essence, a message driven state machine
+
+
 # Posts
 
 - [How to implement long running flows, sagas, business processes or similar](https://blog.bernd-ruecker.com/how-to-implement-long-running-flows-sagas-business-processes-or-similar-3c870a1b95a8)
