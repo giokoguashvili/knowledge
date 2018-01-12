@@ -18,7 +18,7 @@
 
 - [Portworx](https://portworx.com/) - The Solution for Stateful Containers in Production. Designed for DevOps.
 - [REX-Ray](https://rexray.thecodeteam.com) - the leading container storage orchestration engine enabling persistence for cloud native workloads
-- [Sysdig](https://www.sysdig.org/install/) - 
+- [Sysdig](https://www.sysdig.org/install/) - Open source container troubleshooting tool 
 - [Docker-Sync](http://docker-sync.io/)
 
 # Service Discovery
