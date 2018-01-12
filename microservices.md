@@ -25,7 +25,7 @@
 - [How Containers Scale: Service Mesh vs. Traditional Architecture](https://dzone.com/articles/how-containers-scale-service-mesh-vs-traditional-a)
 - [What is a Service Mesh and how Istio fits in](https://developer.ibm.com/code/2017/07/21/service-mesh-architecture-and-istio/)
 
-### EDA:
+### Event-driven architecture:
 
 - [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 - [Events, Flows and Long-Running Services: A Modern Approach to Workflow Automation](https://www.infoq.com/articles/events-workflow-automation)
