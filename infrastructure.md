@@ -41,3 +41,4 @@ analytics and monitoring
 - [Mesosphere](https://mesosphere.com/) - is a production-proven, secure platform that runs anywhere and frees IT from labor-intensive operations
 - [DC/OS](https://dcos.io/) - manages multiple machines in the cloud or on-premises from a single interface; deploys containers, distributed services, and legacy applications into those machines; and provides networking, service discovery and resource management to keep the services running and communicating with each other.
 - [Marathon](https://mesosphere.github.io/marathon/) - A container orchestration platform for Mesos and DC/OS
+- [OpenShift ](https://www.openshift.com/) - enabling you to rapidly build and deploy Docker-formatted containers and manage them on a robust, scalable platform.
