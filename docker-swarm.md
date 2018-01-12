@@ -109,10 +109,9 @@ https://github.com/nextrevision/ansible-swarm-playbook
 https://github.com/atosatto/ansible-dockerswarm/blob/master/tasks/swarm_cluster.yml
 
 
-# Swarm vs kubernetes
+# Swarm vs Kubernetes (k8s)
 
-https://platform9.com/blog/compare-kubernetes-vs-docker-swarm/
-
-https://platform9.com/blog/kubernetes-docker-swarm-compared/
-
-https://www.upcloud.com/blog/docker-swarm-vs-kubernetes/
+- [What you need to know: Kubernetes and Swarm](https://blog.alexellis.io/you-need-to-know-kubernetes-and-swarm/)
+- [Container Orchestration Tools: Compare Kubernetes vs Docker Swarm](https://platform9.com/blog/compare-kubernetes-vs-docker-swarm/)
+- [Kubernetes vs Docker Swarm](https://platform9.com/blog/kubernetes-docker-swarm-compared/)
+- [Docker Swarm vs. Kubernetes: Comparison of the Two Giants in Container Orchestration](https://www.upcloud.com/blog/docker-swarm-vs-kubernetes/)
