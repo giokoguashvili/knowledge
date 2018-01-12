@@ -18,6 +18,13 @@
 
 - [Workshop (with examples in NServiceBus)](https://github.com/Particular/Workshop)
 
+### [Interservice communication](https://docs.microsoft.com/en-us/azure/architecture/microservices/interservice-communication)
+
+- [What’s a service mesh? And why do I need one?](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
+- [Service Mesh vs API Gateway](https://medium.com/microservices-in-practice/service-mesh-vs-api-gateway-a6d814b9bf56)
+- [How Containers Scale: Service Mesh vs. Traditional Architecture](https://dzone.com/articles/how-containers-scale-service-mesh-vs-traditional-a)
+- [What is a Service Mesh and how Istio fits in](https://developer.ibm.com/code/2017/07/21/service-mesh-architecture-and-istio/)
+
 ### EDA:
 
 - [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
