@@ -5,6 +5,14 @@
 # Storage
 
 - [DOCKER : STORAGE PATTERNS FOR PERSISTENCE](https://kvaes.wordpress.com/2016/02/11/docker-storage-patterns-for-persistence/)
+- [MANAGING PERSISTENCE FOR DOCKER CONTAINERS](http://thenewstack.io/methods-dealing-container-storage/)
+
+### Approaches to data storages:
+
+- Default : No Data Persistence
+- Data Volumes : Container Persistence
+- Explicit Shared Storage (Data Volumes) : Container Persistence
+- Shared Multi-Host Storage : Host Persistence
 
 # Tools
 
