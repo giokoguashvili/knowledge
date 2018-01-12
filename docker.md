@@ -2,6 +2,10 @@
 
 - [Docker in Production: A History of Failure](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/)
 
+# Storage
+
+- [DOCKER : STORAGE PATTERNS FOR PERSISTENCE](https://kvaes.wordpress.com/2016/02/11/docker-storage-patterns-for-persistence/)
+
 # Tools
 
 - [Portworx](https://portworx.com/) - The Solution for Stateful Containers in Production. Designed for DevOps.
