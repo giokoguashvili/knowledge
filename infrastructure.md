@@ -12,6 +12,11 @@
 - [Rancher](http://rancher.com/) - Complete container management platform
 - [Marathon](https://mesosphere.github.io/marathon/) - A container orchestration platform for Mesos and DC/OS
 
+### What containers & Platform-as-a-Service tools are OpenStack users deploying?
+![What containers & Platform-as-a-Service tools are OpenStack users deploying?
+](https://www.openstack.org/assets/containers/User-Survey-Chart-Figure1.7.svg)
+
+
 # Monitoring Tools
 
 - [Prometheus](https://prometheus.io) - Power your metrics and alerting with a leading
