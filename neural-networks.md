@@ -9,3 +9,7 @@
 ### Books:
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
+
+### Repos:
+
+- [:octocat:](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/blob/master/neural-nets.md)
