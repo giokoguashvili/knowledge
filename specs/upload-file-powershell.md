@@ -5,10 +5,13 @@
 - [Multipart/form-data Support for Invoke-WebRequest and Invoke-RestMethod in PowerShell Core](https://get-powershellblog.blogspot.com/2017/09/multipartform-data-support-for-invoke.html)
 
 ```powershell
-$fileName="README.md"
+$file = "README"
+$fileName = "$file.md"
 $uri = "http://www.markdowntopdf.com/app/upload"
+$outputFileName = "Giorgi Koguashvili CV.pdf"
 $currentPath = Convert-Path .
 $filePath="$currentPath\$fileName"
+
 $fileBin = [System.IO.File]::ReadAlltext($filePath)
 $boundary = [System.Guid]::NewGuid().ToString()
 $LF = "`r`n"
@@ -19,5 +22,13 @@ $bodyLines = (
     $fileBin,
     "--$boundary--$LF"
 ) -join $LF
-Invoke-RestMethod -Uri $uri -Method Post -ContentType "multipart/form-data; boundary=`"$boundary`"" -Body $bodyLines
+
+$response = Invoke-RestMethod -Uri $uri -Method Post -ContentType "multipart/form-data; boundary=`"$boundary`"" -Body $bodyLines
+echo $response
+
+Start-Sleep -s 1
+
+$url = "http://www.markdowntopdf.com/app/download/$($response.foldername)/$file"
+echo $url
+Invoke-WebRequest -Uri $url -OutFile $outputFileName
 ```
