@@ -18,3 +18,7 @@
     - Explicit
     
 ## Untyped
+
+- Assembler
+- Forth
+- Brainfuck
