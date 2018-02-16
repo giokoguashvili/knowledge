@@ -1,1 +1,20 @@
+# Languages
 
+## Typed
+
+- Static
+  - Strong
+    - Implicit
+    - Explicit
+  - Weakly
+    - Implicit
+    - Explicit
+- Dynamic
+  - Strong
+    - Implicit
+    - Explicit
+  - Weakly
+    - Implicit
+    - Explicit
+    
+## Untyped
