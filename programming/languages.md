@@ -1,6 +1,6 @@
 # [Languages](http://progopedia.ru/)
 
-## Typed
+## [Typed](https://habrahabr.ru/post/161205/)
 
 - Static
   - Strong
