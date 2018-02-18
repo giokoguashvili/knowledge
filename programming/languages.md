@@ -31,7 +31,7 @@
 - Brainfuck
 
 
-# [Polymorphism(https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Row_polymorphism)
+# [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Row_polymorphism)
 
 - Ad hoc polymorphism
 -	Parametric polymorphism
