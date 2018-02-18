@@ -33,7 +33,8 @@
 
 # [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Row_polymorphism)
 
-- Ad hoc polymorphism
+- [Ad hoc polymorphism](https://en.wikipedia.org/wiki/Ad_hoc_polymorphism) - is a kind of polymorphism in which polymorphic functions can be applied to arguments of different types, because a polymorphic function can denote a number of distinct and potentially heterogeneous implementations depending on the type of argument(s) to which it is applied. 
+
 -	Parametric polymorphism
 - Subtyping
 - ...
