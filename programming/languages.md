@@ -27,3 +27,15 @@
 - Assembler
 - Forth
 - Brainfuck
+
+
+# (Polymorphism)[https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Row_polymorphism]
+
+- Ad hoc polymorphism
+-	Parametric polymorphism
+- Subtyping
+- ...
+
+### Static and dynamic polymorphism
+
+Polymorphism can be distinguished by when the implementation is selected: statically (at compile time) or dynamically (at run time, typically via a virtual function). This is known respectively as static dispatch and dynamic dispatch, and the corresponding forms of polymorphism are accordingly called static polymorphism and dynamic polymorphism.
