@@ -2,6 +2,10 @@
 
 ![computerlanguageschart](https://user-images.githubusercontent.com/8178412/36428425-4922e43c-1669-11e8-8023-50ef0d0a74b7.png)
 
+# Paradigms
+
+![paradigmsdiagrameng108](https://user-images.githubusercontent.com/8178412/36428741-2ced3064-166a-11e8-8c33-a3ec14a73770.jpg)
+
 ### Books:
 
 - [Types and Programming Languages Book by Benjamin C. Pierce](https://g.co/kgs/Hu1FVb)
