@@ -1,5 +1,7 @@
 # [Languages](http://progopedia.ru/)
 
+![computerlanguageschart](https://user-images.githubusercontent.com/8178412/36428425-4922e43c-1669-11e8-8023-50ef0d0a74b7.png)
+
 ### Books:
 
 - [Types and Programming Languages Book by Benjamin C. Pierce](https://g.co/kgs/Hu1FVb)
