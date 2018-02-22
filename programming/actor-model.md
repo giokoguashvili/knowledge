@@ -1,7 +1,6 @@
 # [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
 
-The actor model in computer science is a mathematical model of concurrent computation 
-that treats "actors" as the universal primitives of concurrent computation. 
+In computer science, the Actor model, first published in **1973**, is a mathematical model of concurrent computation, that treats "actors" as the universal primitives of concurrent computation. 
 In response to a message that it receives, an actor can: make local decisions, create more actors, send more messages, and determine how to respond to the next message received. Actors may modify their own private state, but can only affect each other through messages (avoiding the need for any locks).
 
 As computational entities, actors have these characteristics, this is similar to the everything is an object philosophy used by some object-oriented programming languages:
@@ -33,7 +32,7 @@ As computational entities, actors have these characteristics, this is similar to
 ![parallelism](https://user-images.githubusercontent.com/8178412/36524620-07993e46-17c0-11e8-9002-d65da3e7a1fb.png)
 
 # History
-According to Carl Hewitt, unlike previous models of computation, the actor model was inspired by physics, including general relativity and quantum mechanics. It was also influenced by the programming languages Lisp, Simula and early versions of Smalltalk
+According to [Carl Hewitt](https://en.wikipedia.org/wiki/Carl_Hewitt), unlike previous models of computation, the actor model was inspired by physics, including general relativity and quantum mechanics. It was also influenced by the programming languages Lisp, Simula and early versions of Smalltalk
 
 
 # Posts
