@@ -15,3 +15,6 @@ Actors may modify their own private state, but can only affect each other throug
 # Posts
 - [Akka.NET: What is an Actor?](https://github.com/petabridge/akka-bootcamp)
 - [What problems does the actor model solve?](http://getakka.net/articles/intro/what-are-actors.html)
+
+# Videos
+- [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
