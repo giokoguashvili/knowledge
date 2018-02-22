@@ -8,7 +8,6 @@
 
 - [Neal Ford - Building Microservice Architectures](https://www.youtube.com/watch?v=pjN7CaGPFB4)
 - [Microservices and Rules Engines – a blast from the past - Udi Dahan](https://www.youtube.com/watch?v=Fuac__g928E)
--
 
 ### PDFs:
 
@@ -29,3 +28,6 @@
 
 - [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 - [Events, Flows and Long-Running Services: A Modern Approach to Workflow Automation](https://www.infoq.com/articles/events-workflow-automation)
+
+### Books
+- [Reactive Microservices Architecture - Design Principles for Distributed Systems](https://theswissbay.ch/pdf/_to_sort/O%27Reilly/reactive-microservices-architecture-orm.pdf)
