@@ -48,3 +48,7 @@
 ### Static and dynamic polymorphism
 
 Polymorphism can be distinguished by when the implementation is selected: statically (at compile time) or dynamically (at run time, typically via a virtual function). This is known respectively as static dispatch and dynamic dispatch, and the corresponding forms of polymorphism are accordingly called static polymorphism and dynamic polymorphism.
+
+# [History of ML](https://courses.cs.washington.edu/courses/cse341/04wi/lectures/02-ml-intro.html)
+ML is clean and powerful, and has many traits that language designers consider hallmarks of a good high-level language
+![02-ml-history](https://user-images.githubusercontent.com/8178412/36527608-ce78c5e4-17cb-11e8-9866-15fee4c5466e.png)
