@@ -2,11 +2,9 @@
 
 The actor model in computer science is a mathematical model of concurrent computation 
 that treats "actors" as the universal primitives of concurrent computation. 
-In response to a message that it receives, an actor can: make local decisions, create more actors, send more messages, and determine how to respond to the next message received
+In response to a message that it receives, an actor can: make local decisions, create more actors, send more messages, and determine how to respond to the next message received. Actors may modify their own private state, but can only affect each other through messages (avoiding the need for any locks).
 
-Actors may modify their own private state, but can only affect each other through messages (avoiding the need for any locks).
-
-As computational entities, actors have these characteristics:
+As computational entities, actors have these characteristics, this is similar to the everything is an object philosophy used by some object-oriented programming languages:
 
 - They communicate with asynchronous messaging instead of method calls
 - They manage their own state
@@ -34,6 +32,9 @@ As computational entities, actors have these characteristics:
 ### Parallelism
 ![parallelism](https://user-images.githubusercontent.com/8178412/36524620-07993e46-17c0-11e8-9002-d65da3e7a1fb.png)
 
+# History
+According to Carl Hewitt, unlike previous models of computation, the actor model was inspired by physics, including general relativity and quantum mechanics. It was also influenced by the programming languages Lisp, Simula and early versions of Smalltalk
+
 
 # Posts
 - [Akka.NET: What is an Actor?](https://github.com/petabridge/akka-bootcamp)
@@ -41,3 +42,6 @@ As computational entities, actors have these characteristics:
 
 # Videos
 - [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
+
+# FAQ
+- [What is the difference between Actor model and Microservices?](https://softwareengineering.stackexchange.com/a/338899/273636)
