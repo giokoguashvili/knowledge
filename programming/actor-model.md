@@ -2,15 +2,29 @@
 
 The actor model in computer science is a mathematical model of concurrent computation 
 that treats "actors" as the universal primitives of concurrent computation. 
-In response to a message that it receives, an actor can: 
-
-1. make local decisions
-2. create more actors
-3. send more messages, and determine how to respond to the next message received
+In response to a message that it receives, an actor can: make local decisions, create more actors, send more messages, and determine how to respond to the next message received
 
 Actors may modify their own private state, but can only affect each other through messages (avoiding the need for any locks).
 
+As computational entities, actors have these characteristics:
+
+- They communicate with asynchronous messaging instead of method calls
+- They manage their own state
+- When responding to a message, they can:
+  - Create other (child) actors
+  - Send messages to other actors
+  - Stop (child) actors or themselves
+  
 ![1_kh_lpsu18rzhrliekhomuq](https://user-images.githubusercontent.com/8178412/36524009-bcb782ea-17bd-11e8-8856-d09708f33b02.png)
+
+# [Terminology and Concepts](http://getakka.net/articles/concepts/terminology.html)
+
+- Concurrency vs. Parallelism
+### Concurrency
+![concurrency](https://user-images.githubusercontent.com/8178412/36524619-077aa3f0-17c0-11e8-9f89-9297eb75dc6d.png)
+### Parallelism
+![parallelism](https://user-images.githubusercontent.com/8178412/36524620-07993e46-17c0-11e8-9002-d65da3e7a1fb.png)
+
 
 # Posts
 - [Akka.NET: What is an Actor?](https://github.com/petabridge/akka-bootcamp)
