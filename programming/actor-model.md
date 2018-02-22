@@ -20,6 +20,15 @@ As computational entities, actors have these characteristics:
 # [Terminology and Concepts](http://getakka.net/articles/concepts/terminology.html)
 
 - Concurrency vs. Parallelism
+- Asynchronous vs. Synchronous
+- Non-blocking vs. Blocking
+- Deadlock vs. Starvation vs. Live-lock
+- Race Condition
+- Non-blocking Guarantees (Progress Conditions)
+  - Wait-freedom
+  - Lock-freedom
+  - Obstruction-freedom
+  
 ### Concurrency
 ![concurrency](https://user-images.githubusercontent.com/8178412/36524619-077aa3f0-17c0-11e8-9f89-9297eb75dc6d.png)
 ### Parallelism
