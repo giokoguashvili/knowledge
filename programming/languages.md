@@ -1,4 +1,4 @@
-# [Languages](http://progopedia.ru/)
+# [Histrory of Languages](https://en.wikipedia.org/wiki/History_of_programming_languages)
 Some notable languages that were developed in this period include:
 
 ### First programming languages
@@ -165,6 +165,9 @@ Polymorphism can be distinguished by when the implementation is selected: static
 # [History of ML](https://courses.cs.washington.edu/courses/cse341/04wi/lectures/02-ml-intro.html)
 ML is clean and powerful, and has many traits that language designers consider hallmarks of a good high-level language
 ![02-ml-history](https://user-images.githubusercontent.com/8178412/36527608-ce78c5e4-17cb-11e8-9866-15fee4c5466e.png)
+
+# FAQ
+- http://progopedia.ru/
 
 # Diagrams
 
