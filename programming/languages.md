@@ -123,12 +123,6 @@ Note that it is not necessary for a language to use one and only one paradigm. L
 - Value-level
 - Visual
 
-
-### Books:
-
-- [Types and Programming Languages Book by Benjamin C. Pierce](https://g.co/kgs/Hu1FVb)
-- [Structure and Interpretation of Computer ProgramsvTextbook by Gerald Jay Sussman and Hal Abelson](https://g.co/kgs/EzN18U)
-
 ## [Typing](https://habrahabr.ru/post/161205/)
 
 ## [Typed](https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
