@@ -92,32 +92,32 @@ Programming language evolution continues, in both industry and research. Some of
 - 2016 – Ring
 
 
+# [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
 
-# Paradigms
 A programming paradigm is a complex of concepts, principles and abstractions which define a fundamental style of programming.
 Note that it is not necessary for a language to use one and only one paradigm. Languages which are designed to support several paradigms are called multi-paradigm.
 
 - Array
 - Concatenative
 - Concurrent
-- **Declarative**
+- **[Declarative](https://en.wikipedia.org/wiki/Declarative_programming)**
 - Esoteric
 - Function-level
-- **Functional**
+- **[Functional](https://en.wikipedia.org/wiki/Functional_programming)**
 - **Generic**
-- **Imperative**
-- Logic
+- **[Imperative](https://en.wikipedia.org/wiki/Imperative_programming)**
+- [Logic](https://en.wikipedia.org/wiki/Logic_programming)
 - **Message passing**
 - Metaprogramming
 - Non-strict
-- **Object-oriented**
-- **Procedural**
+- **[Object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming)**
+- **[Procedural](https://en.wikipedia.org/wiki/Procedural_programming)**
 - Prototype-based
 - **Reflective**
 - Scalar
 - Stack-oriented
 - Strict
-- **Structured**
+- **[Structured](https://en.wikipedia.org/wiki/Structured_programming)**
 - Tabular
 - Tacit
 - Value-level
