@@ -21,6 +21,20 @@ Operation	| Name	| Description
 (λx.M[x])→(λy.M[y]) | α-conversion | Renaming the bound (formal) variables in the expression. Used to avoid name collisions.
 ((λx.M) E)→(M[x:=E]) | β-reduction	| Substituting the bound variable by the argument expression in the body of the abstraction
 
+# [Curry–Howard correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
+
+1. In 1934 Curry observes that the types of the combinators could be seen as axiom-schemes for intuitionistic implicational logic.
+2. In 1958 he observes that a certain kind of proof system, referred to as Hilbert-style deduction systems, coincides on some fragment to the typed fragment of a standard model of computation known as combinatory logic.
+3. In 1969 Howard observes that another, more "high-level" proof system, referred to as natural deduction, can be directly interpreted in its intuitionistic version as a typed variant of the model of computation known as lambda calculus.
+
+Math side	| Programming side	
+--- | --- 
+Natural Deduction - Gentzen (1935) | Typed Lambda Calculus - Church (1940)
+Type Schemes - Hindle (1969) | ML Type System - Milner (1975)
+System F - Girard (1972) | Polymorphic Lambda Calculus - Reynolds (1974)
+Modal Logic - Lewis (1910) | Monads(state, exceptions) - Kleisli (19650, Moggi (1987)
+Classical_Intuitionistic Embedding - Godel (1933) | Continuation Passing Style CPS - Reynolds (1972)
+
 ```javascript
 var Identity = x => x
 var True = x => y = x
