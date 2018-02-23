@@ -1,10 +1,10 @@
 # [Languages](http://progopedia.ru/)
 
-![computerlanguageschart](https://user-images.githubusercontent.com/8178412/36428425-4922e43c-1669-11e8-8023-50ef0d0a74b7.png)
+
 
 # Paradigms
 
-![paradigmsdiagrameng108](https://user-images.githubusercontent.com/8178412/36428741-2ced3064-166a-11e8-8c33-a3ec14a73770.jpg)
+
 
 ### Books:
 
@@ -36,6 +36,28 @@
 - Forth
 - Brainfuck
 
+# Some notable languages that were developed in this period include:
+
+- **1951 – Regional Assembly Language.**
+- 1952 – Autocode.
+- 1954 – IPL (forerunner to LISP)
+- 1955 – FLOW-MATIC (led to COBOL)
+- **1957 – FORTRAN (First compiler)**
+- 1957 – COMTRAN (precursor to COBOL)
+- **1958 – LISP.**
+- **1958 – ALGOL 58.**
+- **1959 – COBOL**           
+- 1959 – RPG
+- 1962 – APL
+- **1962 – Simula**
+  invented in the late 1960s by Nygaard and Dahl as a superset of Algol 60, was the first language designed to support object-oriented programming.
+- 1962 – SNOBOL
+- 1963 – CPL (forerunner to C)
+- 1964 – Speakeasy (computational environment)
+- 1964 – BASIC
+- 1964 – PL/I
+- 1966 – JOSS
+- 1967 – BCPL (forerunner to C)
 
 # [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Row_polymorphism)
 
@@ -52,3 +74,11 @@ Polymorphism can be distinguished by when the implementation is selected: static
 # [History of ML](https://courses.cs.washington.edu/courses/cse341/04wi/lectures/02-ml-intro.html)
 ML is clean and powerful, and has many traits that language designers consider hallmarks of a good high-level language
 ![02-ml-history](https://user-images.githubusercontent.com/8178412/36527608-ce78c5e4-17cb-11e8-9866-15fee4c5466e.png)
+
+# Diagrams
+
+### Computer Language Family Tree
+![computerlanguageschart](https://user-images.githubusercontent.com/8178412/36428425-4922e43c-1669-11e8-8023-50ef0d0a74b7.png)
+
+### Paradigms
+![paradigmsdiagrameng108](https://user-images.githubusercontent.com/8178412/36428741-2ced3064-166a-11e8-8c33-a3ec14a73770.jpg)
