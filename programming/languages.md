@@ -72,24 +72,24 @@ The period from the late 1960s to the late 1970s brought a major flowering of pr
 ### Current trends
 Programming language evolution continues, in both industry and research. Some of the recent trends have included:
 
-**2000 – ActionScript**
-**2001 – C#**
-2001 – D
-2002 – Scratch
-**2003 – Groovy**
-**2003 – Scala**
-**2005 – F#**
-**2006 – PowerShell**
-**2007 – Clojure**
-**2009 – Go**
-**2010 – Rust**
-**2011 – Dart**
-**2011 – Kotlin**
-2011 – Red
-**2011 - Elixir**
-2012 – Julia
-**2014 – Swift**
-2016 – Ring
+- **2000 – ActionScript**
+- **2001 – C#**
+- 2001 – D
+- 2002 – Scratch
+- **2003 – Groovy**
+- **2003 – Scala**
+- **2005 – F#**
+- **2006 – PowerShell**
+- **2007 – Clojure**
+- **2009 – Go**
+- **2010 – Rust**
+- **2011 – Dart**
+- **2011 – Kotlin**
+- 2011 – Red
+- **2011 - Elixir**
+- 2012 – Julia
+- **2014 – Swift**
+- 2016 – Ring
 
 
 
