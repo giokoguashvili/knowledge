@@ -16,7 +16,7 @@ x	| Variable	| A character or string representing a parameter or mathematical/lo
 (λx.M)	| Abstraction	| Function definition (M is a lambda term). The variable x becomes bound in the expression.
 (M N) |	Application	| Applying a function to an argument. M and N are lambda terms.
 
-Like programming languages, the syntax of λ-terms can be defined with [BNF](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form) (форм Бэкуса-Наура):
+Like programming languages, the syntax of λ-terms can be defined with [BNF](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form) (Backus–Naur form):
 ```fsharp
 Exp = Var | Const | Exp Exp | λ Var. Exp
 ```
