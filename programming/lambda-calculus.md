@@ -59,3 +59,6 @@ var Second = p => p(False)
 First(Pair(One)(Two))
 Second(Pair(One)(Two))
 ```
+
+Like programming languages, the syntax of λ-terms can be defined with [BNF](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form) (форм Бэкуса-Наура):
+`Exp = V ar | Const | Exp Exp | λ V ar. Exp`
