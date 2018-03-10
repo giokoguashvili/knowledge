@@ -11,7 +11,7 @@
 
 ### Static and dynamic polymorphism
 
-Polymorphism can be distinguished by when the implementation is selected: statically (at compile time) or dynamically (at run time, typically via a virtual function). This is known respectively as static dispatch and dynamic dispatch, and the corresponding forms of polymorphism are accordingly called static polymorphism and dynamic polymorphism.
+Polymorphism can be distinguished by when the implementation is selected: statically (at compile time) or dynamically (at run time, typically via a virtual function). This is known respectively as **static dispatch** and **dynamic dispatch**, and the corresponding forms of polymorphism are accordingly called **static polymorphism** and **dynamic polymorphism**.
 
 # [Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) 
 
