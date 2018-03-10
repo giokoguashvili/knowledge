@@ -147,6 +147,13 @@ Note that it is not necessary for a language to use one and only one paradigm. L
   - Assembler
   - Forth
   - Brainfuck
+  
+# [Type theory](https://en.wikipedia.org/wiki/Type_theory)
+
+Two well-known type theories, that can serve as mathematical foundations are:
+- [Typed λ-calculus](https://en.wikipedia.org/wiki/Typed_lambda_calculus) - Alonzo Church  
+- [Intuitionistic Type Theory](https://en.wikipedia.org/wiki/Intuitionistic_type_theory) - Per Martin-Löf
+
 
 # [History of ML](https://courses.cs.washington.edu/courses/cse341/04wi/lectures/02-ml-intro.html)
 ML is clean and powerful, and has many traits that language designers consider hallmarks of a good high-level language
