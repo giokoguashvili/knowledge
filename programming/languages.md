@@ -154,8 +154,9 @@ Note that it is not necessary for a language to use one and only one paradigm. L
 
 - [Ad hoc polymorphism](https://en.wikipedia.org/wiki/Ad_hoc_polymorphism) - is a kind of polymorphism in which polymorphic functions can be applied to arguments of different types, because a polymorphic function can denote a number of distinct and potentially heterogeneous implementations depending on the type of argument(s) to which it is applied. 
 
--	Parametric polymorphism
-- Subtyping
+-	Parametric polymorphism - allows a function or a data type to be written generically, so that it can handle values uniformly without depending on their type
+
+- Subtyping - allows a function to be written to take an object of a certain type **T**, but also work correctly, if passed an object that belongs to a type **S** that is a subtype of **T** (according to the Liskov substitution principle).
 - ...
 
 ### Static and dynamic polymorphism
