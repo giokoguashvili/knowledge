@@ -32,6 +32,8 @@ In programming languages, encapsulation is used to refer to one of two related b
 
 # OOP
 
+What Is Object-Oriented Programming? - Page 247. TAPL
+
 - Multiple representations
 - Encapsulation
 - Subtyping
