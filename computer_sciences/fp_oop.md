@@ -1,6 +1,6 @@
 # FP & OOP
 
-# [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Row_polymorphism)
+# [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
 In programming languages and type theory, **polymorphism**  is the provision of a single interface to entities of different types.
 
