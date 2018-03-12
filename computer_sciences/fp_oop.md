@@ -2,11 +2,17 @@
 
 # [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Row_polymorphism)
 
-- [Ad hoc polymorphism](https://en.wikipedia.org/wiki/Ad_hoc_polymorphism) - is a kind of polymorphism in which polymorphic functions can be applied to arguments of different types, because a polymorphic function can denote a number of distinct and potentially heterogeneous implementations depending on the type of argument(s) to which it is applied. 
+In programming languages and type theory, **polymorphism**  is the provision of a single interface to entities of different types.
 
+
+
+- [Ad hoc polymorphism](https://en.wikipedia.org/wiki/Ad_hoc_polymorphism) - is a kind of polymorphism in which polymorphic functions can be applied to arguments of different types, because a polymorphic function can denote a number of distinct and potentially heterogeneous implementations depending on the type of argument(s) to which it is applied. 
+  - **Ad hoc polymorphism** and **parametric polymorphism** were originally described in Fundamental Concepts in Programming Languages, a set of lecture notes written in 1967.
+  
 -	[Parametric polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism) - allows a function or a data type to be written generically, so that it can handle values uniformly without depending on their type
 
 - [Subtyping](https://en.wikipedia.org/wiki/Subtyping) - allows a function to be written to take an object of a certain type **T**, but also work correctly, if passed an object that belongs to a type **S** that is a subtype of **T** (according to the Liskov substitution principle).
+  - In a 1985 paper, Peter Wegner and Luca Cardelli introduced the term inclusion polymorphism to model **subtypes** and **inheritance**.
 - ...
 
 ### Static and dynamic polymorphism
