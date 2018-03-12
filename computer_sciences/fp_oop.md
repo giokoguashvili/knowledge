@@ -19,6 +19,9 @@ In programming languages and type theory, **polymorphism**  is the provision of 
 
 Polymorphism can be distinguished by when the implementation is selected: statically (at compile time) or dynamically (at run time, typically via a virtual function). This is known respectively as **static dispatch** and **dynamic dispatch**, and the corresponding forms of polymorphism are accordingly called **static polymorphism** and **dynamic polymorphism**.
 
+- [Multiple dispatch or multimethods](https://en.wikipedia.org/wiki/Multiple_dispatch) -  is a feature of some programming languages in which a function or method can be dynamically dispatched based on the run-time (dynamic) type or, in the more general case some other attribute, of more than one of its arguments.
+- [Double dispatch](https://en.wikipedia.org/wiki/Double_dispatch) - is a special form of multiple dispatch, and a mechanism that dispatches a function call to different concrete functions depending on the runtime types of two objects involved in the call. 
+
 # [Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) 
 
 In programming languages, encapsulation is used to refer to one of two related but distinct notions, and sometimes to the combination thereof:
