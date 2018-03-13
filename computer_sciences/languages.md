@@ -154,6 +154,8 @@ Two well-known type theories, that can serve as mathematical foundations are:
 - [Typed λ-calculus](https://en.wikipedia.org/wiki/Typed_lambda_calculus) - Alonzo Church  
 - [Intuitionistic Type Theory](https://en.wikipedia.org/wiki/Intuitionistic_type_theory) - Per Martin-Löf
 
+# [Dependent type](https://en.wikipedia.org/wiki/Dependent_type)
+In computer science and logic, a **dependent type** is a type whose definition depends on a value. 
 
 # [History of ML](https://courses.cs.washington.edu/courses/cse341/04wi/lectures/02-ml-intro.html)
 ML is clean and powerful, and has many traits that language designers consider hallmarks of a good high-level language
