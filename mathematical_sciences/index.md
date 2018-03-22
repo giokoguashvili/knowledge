@@ -34,3 +34,5 @@
 
 # Types of homomorphisms
 - [Monomorphism](https://en.wikipedia.org/wiki/Monomorphism) - [Injective](https://en.wikipedia.org/wiki/Injective_function)
+- [Epimorphism](https://en.wikipedia.org/wiki/Epimorphism) - [Surjective](https://en.wikipedia.org/wiki/Surjective_function)
+- [Isomorphism](https://en.wikipedia.org/wiki/Isomorphism) - [Bijection](https://en.wikipedia.org/wiki/Bijection)
