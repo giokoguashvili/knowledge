@@ -22,6 +22,7 @@
 
 - [Математика для гуманитариев - Алексей Савватеев](http://www.usdp.ru/donate/)
 - [What is Mathematics? - Richard Courant](http://ilib.mccme.ru/pdf/kurant.pdf)
+- [Кому нужна математика? - Нелли Литвак, Андрей Райгородский](https://www.mann-ivanov-ferber.ru/book/komu-nuzhna-matematika/)
 - [more...](https://math.hse.ru/books)
 
 # Cources:
