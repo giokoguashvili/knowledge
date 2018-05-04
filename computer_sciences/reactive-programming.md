@@ -15,3 +15,4 @@ Message Passing + Streams + Async
 
 ## Books
 - [RxJS Book](http://xgrommx.github.io/rx-book/index.html)
+- [Introduction to Rx](http://www.introtorx.com/)
