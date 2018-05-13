@@ -1,5 +1,14 @@
 # Neural Networks
 
+### Types of machine learning models
+
+- Predictive 
+  - Supervised 
+- Descriptive 
+  - Unsupervised
+- Reinforcment
+
+
 ![Popular Neural Network Architecture](https://cdn-images-1.medium.com/max/1600/0*AYTsMuWP7JdoLf78.jpg)
 
 [Slides](https://www.slideshare.net/akashmaurya24/14-mohsin-dalvi-artificial-neural-networks-presentation)
