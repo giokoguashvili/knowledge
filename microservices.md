@@ -26,6 +26,9 @@
 
 ### Event-driven architecture:
 
+#### Comment by [mettjus] on video [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
+events/commands: the difference between Event and Command is really deeper than just naming. IMO it's the same difference that occurs between "choreography" and "orchestration". Moreover I would say the kind of queues used for the 2 types of "messaging" have different requirements: message-persistence/multiple-consumption in case of Events (eg. I don't know who and when will be interested in this event, an I would use something like Kafka for it), message-acknowledgment/single-consumption in case of Commands (eg. I am giving an instruction right now to a specific executor of that instruction (actually the executor I could not know but the nature of the action I know), and I would maybe use something like RabbitMQ)
+
 - [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 - [Events, Flows and Long-Running Services: A Modern Approach to Workflow Automation](https://www.infoq.com/articles/events-workflow-automation)
 
