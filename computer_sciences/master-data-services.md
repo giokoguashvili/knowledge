@@ -54,4 +54,16 @@
  
  SSAS metaphor: **attribute**
  
+ ### Hierarchy
+  - A relational arrangement of entity members
+  - Types:
+   - Derived: based on attributes
+   - Explicit: each member can have one parent assigned per hierarchy
+     - Mandatory: all mebers must be present
+   - Combination: exploicit at the top of aderived hierarchy
+   - 1-N hierarchies per model
+   
+ RDBMS metaphor: **parent/child, hierarchiyd"
+ 
+ SSAS metaphor: **hierarchy**
  
