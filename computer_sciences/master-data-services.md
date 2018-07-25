@@ -15,9 +15,9 @@
  - Typically named for their "primary" entity
  - 1-N models per MDS instance
  
- RDBMS methaphor: database
+ RDBMS methaphor: **database**
  
- SSAS metaphor: cube
+ SSAS metaphor: **cube**
  
  ### Entity
   - Container for master data ("members")
@@ -26,8 +26,32 @@
   - Examples: Product, Customer, Country
   - 1-N entites per moderl
   
- RDBMS metaphor: table
+ RDBMS metaphor: **table**
  
- SSAS metaphor: dimension
+ SSAS metaphor: **dimension**
+ 
+ ### Entity member 
+  - An instance of an entity
+  - Defines the attribute values for the instance
+  - Example:
+    "BK-M18B-40", "Mountain-500 Black, 40", "Black"
+  - 1-N members per entity
+  
+  RDBMS metaphor: **record**
+  
+  SSAS metaphor: **dimension member**
+  
+  ### Attribute
+   - A data value associated with an entity member
+   - May be text, numeric, datetime, link, file
+   - May be sourcedd from another entity ("domain based attribute")
+     -  RDBMS metaphor: **foreign key**
+     - SSAS metaphor: **attribute relationship**
+   - Examples: Name, Size, Color, Width, Height
+   - 1-N attributes per entity
+   
+ RDBMS metaphor: **column**
+ 
+ SSAS metaphor: **attribute**
  
  
