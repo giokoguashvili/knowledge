@@ -4,7 +4,7 @@
 - [DQS](https://docs.microsoft.com/en-us/sql/data-quality-services/data-quality-services?view=sql-server-2017) - Data Quality Services
 - [SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-2017) - SQL Server Integration Services
 - [SSAS](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services?view=sql-server-2017) - SQL Server Analysis Services 
-- [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) - Relational database management system
+- [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) - Relational DataBase Management System
 
 - [SSDT](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017) - SQL Server Data Tools
 
