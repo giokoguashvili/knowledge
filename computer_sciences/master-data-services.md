@@ -63,7 +63,7 @@
    - Combination: exploicit at the top of aderived hierarchy
    - 1-N hierarchies per model
    
- RDBMS metaphor: **parent/child, hierarchiyd"
+ RDBMS metaphor: **parent/child, hierarchiyd**
  
  SSAS metaphor: **hierarchy**
  
