@@ -1,8 +1,10 @@
-# MDS - Master Data Services
+# [SQL Server Technologies](https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation?view=sql-server-2017)
 
-- MDS
-- SSIS
-- SSAS
+- [MDS](https://docs.microsoft.com/en-us/sql/master-data-services/master-data-services-overview-mds?view=sql-server-2017) - Master Data Services
+- [DQS](https://docs.microsoft.com/en-us/sql/data-quality-services/data-quality-services?view=sql-server-2017) - Data Quality Services
+- [SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-2017) - SQL Server Integration Services
+- [SSAS](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services?view=sql-server-2017) - SQL Server Analysis Services 
+- [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) - Relational database management system
 
 
 ## Definations:
