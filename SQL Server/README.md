@@ -18,6 +18,17 @@
  [What are OLTP and OLAP. What is the difference between them?](https://stackoverflow.com/a/33539330/5200896)
  [Kimball and Inmon DW Models](https://bennyaustin.wordpress.com/2010/05/02/kimball-and-inmon-dw-models/)
  
+ ### Creating a Data Warehouse
+ 
+ - Identify the measure that the organization requires reporting
+   - Total Sales
+   - Total Costs
+   - Total Profit
+ - Identify how the measure need to be sliced
+   - By Date
+   - By Department
+   - By Employee
+ 
 
 ### Traditional Data Warehouse Concepts
  - **Dimension:** Categorizes and provides context for facts and measures, enabling analysis.
