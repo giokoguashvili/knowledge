@@ -66,6 +66,18 @@
     - Margin
   - SemiAdditive - Measures that can be aggreagated across most, but not all dimensions
     - Account balance
+    
+- Keys
+  - Both dimensions and fact tables will contain keys
+    - Surrogate key - A primary key that is different than that of the source piramry key
+    - Business key - The primary key that is taken from the source
+    - Fact tables require compound keys
+  
+- Degenerate Dimension
+  - Dimension information that is contained in the Fact table
+    - Policy cancelled
+- Conformed Dimenison
+  - Dimension that can be used across multiple Fact Tables
 
 ### Traditional Data Warehouse Concepts
  - **Dimension:** Categorizes and provides context for facts and measures, enabling analysis.
