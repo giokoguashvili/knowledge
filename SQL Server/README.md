@@ -16,6 +16,7 @@
  - [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing) - Online Transaction Processing
  
  [What are OLTP and OLAP. What is the difference between them?](https://stackoverflow.com/a/33539330/5200896)
+ 
  [Kimball and Inmon DW Models](https://bennyaustin.wordpress.com/2010/05/02/kimball-and-inmon-dw-models/)
  
  ### Creating a Data Warehouse
