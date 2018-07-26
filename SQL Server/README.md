@@ -63,6 +63,9 @@ Learn more in the Data Warehouse and OLAP section below.
  - **ETL:** Ingests data into the data warehouse by extracting it from source, transforming and optimizing it for analysis, and loading in batches to the data warehouse.
  - **ELT:** A variation on ETL that extracts raw data, including unstructured data, loads it into the data warehouse, and then transforms the data as required for analysis.
  
+ 
+### [Difference Between Fact Table and Dimension Table](https://www.guru99.com/fact-table-vs-dimension-table.html)
+- [Difference between Fact table and Dimension table?](https://stackoverflow.com/a/20037663/5200896)
 
 ## Definations:
 
