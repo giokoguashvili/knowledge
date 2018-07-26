@@ -28,6 +28,14 @@
    - By Date
    - By Department
    - By Employee
+ - Identify where the data lives
+   - SQL Server
+   - XML
+   - Oracle
+ - Identify where the data needs to be transformed
+   - Insure consistency
+   - Aggregations
+   - Look ups
  
 
 ### Traditional Data Warehouse Concepts
