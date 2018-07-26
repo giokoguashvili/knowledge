@@ -10,6 +10,11 @@
 - [SSDT](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017) - SQL Server Data Tools
  
 
+# Terminology
+
+ - [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing) - Online Analytical Processing
+ - [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing) - Online Transaction Processing
+
 ## Definations:
 
 ### Model
