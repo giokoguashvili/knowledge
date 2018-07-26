@@ -56,7 +56,16 @@
 ### Date Wharehouse Schemas
 - Star Schema
 - Snowflake Schema
-   
+
+### Data Modeling Considerations 
+- Measures
+  - Additive - Measures that can be aggregated across all dimensions
+    - Quantity
+    - Cost
+  - NonAdditive - Measure that can not be aggregated accros all dimensions
+    - Margin
+  - SemiAdditive - Measures that can be aggreagated across most, but not all dimensions
+    - Account balance
 
 ### Traditional Data Warehouse Concepts
  - **Dimension:** Categorizes and provides context for facts and measures, enabling analysis.
