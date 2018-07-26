@@ -8,7 +8,7 @@
 
 # Tools
 - [SSDT](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017) - SQL Server Data Tools
- 
+- [ETL Tools: A Modern List](https://www.alooma.com/blog/etl-tools-modern-list) 
 
 # [Data Warehouse Guide](https://panoply.io/data-warehouse-guide/)
 
