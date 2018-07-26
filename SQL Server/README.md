@@ -126,6 +126,25 @@ How the logical model will be stored on the physical resources:
    - Should utilize spearate disks
  - RAID considerations
 
+### Indexing
+ - **Dimesnion**
+  - Insure that nonclustered indexes are created on frequently searched columns
+  - Clustered index on the buisness keys
+  - NonClustered primary key on the surrogate key
+ - **Fct**
+   - NonCLustered index on frequently queried columns
+   - Clustered index on time dimension key
+     - There is the possibility that multiple time dimension keys will exist in which case evaluate the most used for the cluseterd index
+     
+### Compression
+- Row compression
+  - Fixed length columns are stored as variable length columns
+- Page compression
+  - Single instance of redundant data is stored on a single  8kb data page
+- Reduce bothspace used and disk IO
+
+
+# Blogs:
 
 - [Difference Between Fact Table and Dimension Table](https://www.guru99.com/fact-table-vs-dimension-table.html)
 - [Difference between Fact table and Dimension table?](https://stackoverflow.com/a/20037663/5200896)
