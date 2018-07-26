@@ -4,17 +4,20 @@
 - [DQS](https://docs.microsoft.com/en-us/sql/data-quality-services/data-quality-services?view=sql-server-2017) - Data Quality Services
 - [SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-2017) - SQL Server Integration Services
 - [SSAS](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services?view=sql-server-2017) - SQL Server Analysis Services 
-- [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) - Relational DataBase Management System
+- [SSRS](https://docs.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-2017) - SQL Server Reporting Services
 
+
+# Termonology
+- [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) - Relational DataBase Management System
+- [ETL Tools: A Modern List](https://www.alooma.com/blog/etl-tools-modern-list) 
+- [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing) - Online Analytical Processing
+- [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing) - Online Transaction Processing
+ 
 # Tools
 - [SSDT](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017) - SQL Server Data Tools
-- [ETL Tools: A Modern List](https://www.alooma.com/blog/etl-tools-modern-list) 
 
 # [Data Warehouse Guide](https://panoply.io/data-warehouse-guide/)
 
- - [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing) - Online Analytical Processing
- - [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing) - Online Transaction Processing
- 
  [What are OLTP and OLAP. What is the difference between them?](https://stackoverflow.com/a/33539330/5200896)
  
  [Kimball and Inmon DW Models](https://bennyaustin.wordpress.com/2010/05/02/kimball-and-inmon-dw-models/)
