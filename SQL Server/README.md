@@ -40,7 +40,18 @@
    - Insure consistency
    - Aggregations
    - Look ups
- 
+   
+### Data Modeling
+
+ - Identify the organizations reporting metrics
+   - Tipically numeric metrics used by an organization to identify success or failure in specific areas
+     - Total Sales
+     - Total Costs
+ - Identify how these metrics are analyzed
+   - By Employee
+   - By Department
+   - By Customer
+   - By Product
 
 ### Traditional Data Warehouse Concepts
  - **Dimension:** Categorizes and provides context for facts and measures, enabling analysis.
@@ -128,4 +139,6 @@ Learn more in the Data Warehouse and OLAP section below.
  RDBMS metaphor: **parent/child, hierarchiyd**
  
  SSAS metaphor: **hierarchy**
+ 
+ 
  
