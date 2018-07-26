@@ -14,6 +14,8 @@
 
  - [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing) - Online Analytical Processing
  - [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing) - Online Transaction Processing
+ 
+ [What are OLTP and OLAP. What is the difference between them?](https://stackoverflow.com/a/33539330/5200896)
 
 ## Definations:
 
