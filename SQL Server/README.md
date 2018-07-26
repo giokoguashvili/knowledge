@@ -10,12 +10,36 @@
 - [SSDT](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017) - SQL Server Data Tools
  
 
-# Terminology
+# Data Warehouse 
 
  - [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing) - Online Analytical Processing
  - [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing) - Online Transaction Processing
  
  [What are OLTP and OLAP. What is the difference between them?](https://stackoverflow.com/a/33539330/5200896)
+ [Kimball and Inmon DW Models](https://bennyaustin.wordpress.com/2010/05/02/kimball-and-inmon-dw-models/)
+ 
+
+### Traditional Data Warehouse Concepts
+ - **Dimension:** Categorizes and provides context for facts and measures, enabling analysis.
+ - **Conceptual model:** Defines high-level data entities and relationships between them.
+ - **Logical model:** Describes data relationships, entities and attributes in as much detail as possible, without details of implementation.
+ - **Physical model:** Represents how to implement data design in a specific database system.
+ - **Fact table:** A table consisting of “facts”, metrics or measurements, for a business process and their related dimensions.
+ - **Dimension table:** Describes dimensions using dimension keys, values and attributes.
+ - **Data warehouse schema:** Defines the structure of the data warehouse—how fact tables are split into dimension tables
+ 
+ - **Inmon approach:** Bill Inmon introduced a top-down approach, which sees the data warehouse as the centralized data repository for the entire enterprise.
+ - **Enterprise Data Warehouse:** Consolidates data from across the entire enterprise (as advocated by Inmon).
+ - **Kimball approach:** Ralph Kimball described a data warehouse as several separate, specialized data marts, created for the use of different departments.
+ - **Data Mart:** a mini-data-warehouse focusing on a specific business subject (as advocated by Kimball).
+
+ - **OLTP:** Online transaction processing systems—fast production databases which typically feed data into the data warehouse.
+ - **OLAP:** Online analytical processing systems that analyze historical transaction data using read-only queries and aggregations.
+Learn more in the Data Warehouse and OLAP section below.
+
+ - **ETL:** Ingests data into the data warehouse by extracting it from source, transforming and optimizing it for analysis, and loading in batches to the data warehouse.
+ - **ELT:** A variation on ETL that extracts raw data, including unstructured data, loads it into the data warehouse, and then transforms the data as required for analysis.
+ 
 
 ## Definations:
 
