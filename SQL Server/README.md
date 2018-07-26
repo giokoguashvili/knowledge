@@ -52,6 +52,11 @@
    - By Department
    - By Customer
    - By Product
+   
+### Date Wharehouse Schemas
+- Star Schema
+- Snowflake Schema
+   
 
 ### Traditional Data Warehouse Concepts
  - **Dimension:** Categorizes and provides context for facts and measures, enabling analysis.
