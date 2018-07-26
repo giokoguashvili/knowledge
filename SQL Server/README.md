@@ -79,12 +79,12 @@ Learn more in the Data Warehouse and OLAP section below.
 
 ### Data Modeling Considerations 
 - Measures
-  - Additive - Measures that can be aggregated across all dimensions
+  - **Additive** - Measures that can be aggregated across all dimensions
     - Quantity
     - Cost
-  - NonAdditive - Measure that can not be aggregated accros all dimensions
+  - **NonAdditive** - Measure that can not be aggregated accros all dimensions
     - Margin
-  - SemiAdditive - Measures that can be aggreagated across most, but not all dimensions
+  - **SemiAdditive** - Measures that can be aggreagated across most, but not all dimensions
     - Account balance
     
 - Keys
@@ -100,7 +100,8 @@ Learn more in the Data Warehouse and OLAP section below.
   - Dimension that can be used across multiple Fact Tables
 
 ### Logical Model 
-> Describes data relationships, entities and attributes in as much detail as possible, without details of implementation
+> Describes data relationships, entities and attributes in as much detail as possible, without details of implementation.
+
 - **Dimesion Tables** - Describes dimensions using dimension keys, values and attributes
   - Defined with all:
     - Attributes - Columns
@@ -112,6 +113,18 @@ Learn more in the Data Warehouse and OLAP section below.
     - Keys - Mapped to the dimensions
     - Data types
     - Additive, NonAdditive or SemiAdditive
+    
+### Phisical Model 
+> Represents how to implement data design in a specific database system.
+
+How the logical model will be stored on the physical resources:
+ - Tables
+   - Will partitioning be used
+   - How many disks are available
+   - How many filegroups will be used
+ - Log files
+   - Should utilize spearate disks
+ - RAID considerations
 
 
 - [Difference Between Fact Table and Dimension Table](https://www.guru99.com/fact-table-vs-dimension-table.html)
