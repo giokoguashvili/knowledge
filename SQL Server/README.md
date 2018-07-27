@@ -105,16 +105,26 @@ Learn more in the Data Warehouse and OLAP section below.
     - Surrogate key - A primary key that is different than that of the source piramry key
     - Business key - The primary key that is taken from the source
     - Fact tables require compound keys
-  
-- **Degenerate Dimension**
-  - Dimension information that is contained in the Fact table
-    - Policy cancelled
+
 - **Conformed Dimenison**
   - Dimension that can be used across multiple Fact Tables
   - Used when all business users have the same definations for the dimension
+  
 - **Non-conformed dimension**
   - Dimension table targeted to a sigle fact table
   - Used when dimensions have different definations for different business units
+
+- **Degenerate Dimension**
+  - Dimension information that is contained in the Fact table
+    - Policy cancelled
+  - Dimension value is stored directly in the fact table
+  - No coressponding dimension table
+  
+- **Shared dimension**
+  - Used by multiple facts
+  - Dimension key is stored in the fact table
+  - Dimension value is stored in the dimension table with other attributes of that dimension
+
 
 ### Logical Model 
 > Describes data relationships, entities and attributes in as much detail as possible, without details of implementation.
