@@ -18,6 +18,12 @@
 
 # [Data Warehouse Guide](https://panoply.io/data-warehouse-guide/)
 
+### Data Lake vs. Data Warehouse
+Organizations use data warehouses and data lakes to store, manage and analyze data:
+
+ - **Data warehouses** store structured data, cleaned up and organized for specific business purposes, and serve it to reporting or BI tools used by analysts and business users.
+ - **Data lakes** are a newer technology that stores both structured and unstructured data in its original form, and processes it later on-demand.
+
  [What are OLTP and OLAP. What is the difference between them?](https://stackoverflow.com/a/33539330/5200896)
  
  [Kimball and Inmon DW Models](https://bennyaustin.wordpress.com/2010/05/02/kimball-and-inmon-dw-models/)
