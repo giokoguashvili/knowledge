@@ -106,11 +106,15 @@ Learn more in the Data Warehouse and OLAP section below.
     - Business key - The primary key that is taken from the source
     - Fact tables require compound keys
   
-- Degenerate Dimension
+- **Degenerate Dimension**
   - Dimension information that is contained in the Fact table
     - Policy cancelled
-- Conformed Dimenison
+- **Conformed Dimenison**
   - Dimension that can be used across multiple Fact Tables
+  - Used when all business users have the same definations for the dimension
+- **Non-conformed dimension**
+  - Dimension table targeted to a sigle fact table
+  - Used when dimensions have different definations for different business units
 
 ### Logical Model 
 > Describes data relationships, entities and attributes in as much detail as possible, without details of implementation.
