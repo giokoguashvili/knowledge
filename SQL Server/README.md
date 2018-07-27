@@ -18,6 +18,13 @@
 
 # [Data Warehouse Guide](https://panoply.io/data-warehouse-guide/)
 
+### Data Warehouse Infrastructure and Technology
+
+ - Traditional on-premise ETL tools such as **Informatica** and **Ab Initio**.
+ - Open source ETL tools such as **Talend**, **Apache Camel** and **Apatar**.
+ - Stream processing tools, which allow real-time streaming and transformation of data, such as **Apache Kafka** and **Apache Samza**.
+ - Cloud-based ETL services such **Segment**, **Stitch** and **Blendo**.
+
 ### Data Lake vs. Data Warehouse
 Organizations use data warehouses and data lakes to store, manage and analyze data:
 
