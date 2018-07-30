@@ -136,7 +136,17 @@ Learn more in the Data Warehouse and OLAP section below.
     - Show a to and form date or current and expired
   - A new Columns is created as the attribute changes
 
-
+# [Data Quality Servicves](https://docs.microsoft.com/en-us/sql/data-quality-services/data-quality-services?view=sql-server-2017)
+DQS is not an absolute. Provides an assessment of potentially incorrect data based upon semantic model
+- Components
+ - **Data Cleansing:** Modification, removal or enrichment of data that is incorect or incomplete
+ - **Matching:** Identification of semantic duplicates in a rules-vased process
+ - **Reference Data Sevices:** Verification of the quality of data using the services of a reference data provider
+ - **Profiling:** Analysis of a data source to provide insight inot the qiuality of the data at every stage in the knowledge discovery, domain managment, matching, and data cleansing processes
+ - **Monitoring:** Tracking and determination of the state of data quality activities
+ - **Knowledge Base:** Data Quality Sevices is a knowledge-driven solution that analyzes data based upon knowledge that you build with DQS
+ 
+ 
 ### Logical Model 
 > Describes data relationships, entities and attributes in as much detail as possible, without details of implementation.
 
