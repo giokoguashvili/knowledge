@@ -127,6 +127,14 @@ Learn more in the Data Warehouse and OLAP section below.
   - Used by multiple facts
   - Dimension key is stored in the fact table
   - Dimension value is stored in the dimension table with other attributes of that dimension
+  
+### Slowly Changing Dimensions
+- There are three types of SCD
+  - Overwrite the old value with the new value
+    - Historic infromations is lost
+  - Record the new value and maintain the old value
+    - Show a to and form date or current and expired
+  - A new Columns is created as the attribute changes
 
 
 ### Logical Model 
