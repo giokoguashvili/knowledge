@@ -12,10 +12,12 @@
 - [ETL Tools: A Modern List](https://www.alooma.com/blog/etl-tools-modern-list) 
 - [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing) - Online Analytical Processing
 - [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing) - Online Transaction Processing
-- [MSDTC](https://blogs.msdn.microsoft.com/florinlazar/2004/03/04/what-is-msdtc-and-why-do-i-need-to-care-about-it/) - Microsoft Distributed Transaction Coordinator
+
 
 # Tools
 - [SSDT](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017) - SQL Server Data Tools
+- [MSDTC](https://blogs.msdn.microsoft.com/florinlazar/2004/03/04/what-is-msdtc-and-why-do-i-need-to-care-about-it/) - Microsoft Distributed Transaction Coordinator
+- [CDC](https://docs.microsoft.com/en-us/sql/integration-services/change-data-capture/change-data-capture-ssis?view=sql-server-2017) - Change Data Capture (SSIS)
 
 # [Data Warehouse Guide](https://panoply.io/data-warehouse-guide/)
 
