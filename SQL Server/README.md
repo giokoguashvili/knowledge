@@ -215,6 +215,7 @@ How the logical model will be stored on the physical resources:
 - [Best practices for Azure SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-best-practices#reduce-cost-with-pause-and-scale)
 - [Common ISV application patterns using Azure SQL Data Warehouse
 ](https://blogs.msdn.microsoft.com/sqlcat/2017/09/05/common-isv-application-patterns-using-azure-sql-data-warehouse/)
+- [Designing tables in Azure SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-tables-overview)
 
 ## Definations:
 
