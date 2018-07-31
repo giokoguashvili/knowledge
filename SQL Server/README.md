@@ -211,6 +211,8 @@ How the logical model will be stored on the physical resources:
 - [Difference between Fact table and Dimension table?](https://stackoverflow.com/a/20037663/5200896)
 - [Defining a Data Warehouse Update Schedule](http://support.pb.com/help/spectrum/9.0/webhelp/en/EnterpriseDataIntegration/EnterpriseDataIntegration/source/SchedulingPopulation/PlanningPopulationSchedule.html)
 - [Azure SQL Data Warehouse Workload Patterns and Anti-Patterns](https://blogs.msdn.microsoft.com/sqlcat/2017/09/05/azure-sql-data-warehouse-workload-patterns-and-anti-patterns/)
+- [Best practices for loading data into Azure SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/guidance-for-loading-data)
+- [Best practices for Azure SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-best-practices#reduce-cost-with-pause-and-scale)
 
 ## Definations:
 
