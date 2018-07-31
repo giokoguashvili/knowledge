@@ -21,6 +21,19 @@
 
 # [Data Warehouse Guide](https://panoply.io/data-warehouse-guide/)
 
+### SQL DW is not a good match for the following scenarios:
+
+- OLTP workload
+- High volume of small reads and writes
+- Multi-Tenancy Database
+- Frequent changing of schema
+- Row by row processing
+- JSON, XML data and Spatial, Struct, Array and Map data types
+- Power BI direct query requiring dashboard performance
+- High concurrency of queries (eg. hundreds of thousands of concurrent queries)
+- Small datasets (less than 250GB)
+- Disaster recovery with stringent RPO and RTO
+
 ### Data Warehouse Infrastructure and Technology
 
  - Traditional on-premise ETL tools such as **Informatica** and **Ab Initio**.
@@ -192,10 +205,12 @@ How the logical model will be stored on the physical resources:
 - Reduce bothspace used and disk IO
 
 
-# Blogs:
+# Posts:
 
 - [Difference Between Fact Table and Dimension Table](https://www.guru99.com/fact-table-vs-dimension-table.html)
 - [Difference between Fact table and Dimension table?](https://stackoverflow.com/a/20037663/5200896)
+- [Defining a Data Warehouse Update Schedule](http://support.pb.com/help/spectrum/9.0/webhelp/en/EnterpriseDataIntegration/EnterpriseDataIntegration/source/SchedulingPopulation/PlanningPopulationSchedule.html)
+- [Azure SQL Data Warehouse Workload Patterns and Anti-Patterns](https://blogs.msdn.microsoft.com/sqlcat/2017/09/05/azure-sql-data-warehouse-workload-patterns-and-anti-patterns/)
 
 ## Definations:
 
