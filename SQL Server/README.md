@@ -141,7 +141,7 @@ Learn more in the Data Warehouse and OLAP section below.
   - Dimension key is stored in the fact table
   - Dimension value is stored in the dimension table with other attributes of that dimension
   
-### Slowly Changing Dimensions
+### [Slowly Changing Dimensions](http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/10g/r2/owb/owb10gr2_gs/owb/lesson3/slowlychangingdimensions.htm)
 - There are three types of SCD
   - Overwrite the old value with the new value
     - Historic infromations is lost
