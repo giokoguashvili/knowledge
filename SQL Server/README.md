@@ -216,6 +216,10 @@ How the logical model will be stored on the physical resources:
 - [Common ISV application patterns using Azure SQL Data Warehouse
 ](https://blogs.msdn.microsoft.com/sqlcat/2017/09/05/common-isv-application-patterns-using-azure-sql-data-warehouse/)
 - [Designing tables in Azure SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-tables-overview)
+ - [Data Warehouse vs. OLAP Cube?](https://stackoverflow.com/a/18923809/5200896)
+ 
+# Blogs:
+- [Data Qualtity Services (DQS)](https://blogs.msdn.microsoft.com/dqs/)
 
 ## Definations:
 
