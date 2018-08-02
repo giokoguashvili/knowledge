@@ -218,6 +218,9 @@ How the logical model will be stored on the physical resources:
 - [Designing tables in Azure SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-tables-overview)
 - [Data Warehouse vs. OLAP Cube?](https://stackoverflow.com/a/18923809/5200896)
 - [Comparison of Master Data Services Functionality in Web Interface versus Excel Add-In](https://www.sqlchick.com/entries/2013/2/2/comparison-of-master-data-services-functionality-in-web-inte.html)
+- [Importing Data Into Master Data Services 2012](https://melissa-coates.squarespace.com/entries/2013/2/16/importing-data-into-master-data-services-2012-part-1.html)
+- [Практическое применение Master Data Services в MS SQL Server 2012](https://habr.com/post/224981/)
+- [7 ошибок ETL-разработчика](https://habr.com/post/273243/)
 
 # Blogs:
 - [Data Qualtity Services (DQS)](https://blogs.msdn.microsoft.com/dqs/)
