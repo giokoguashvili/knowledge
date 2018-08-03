@@ -223,6 +223,7 @@ How the logical model will be stored on the physical resources:
 - [7 ошибок ETL-разработчика](https://habr.com/post/273243/)
 - [Create First Data WareHouse](https://www.codeproject.com/Articles/652108/Create-First-Data-WareHouse)
 - [Master Data Management - What, Why, How & Who](https://www.profisee.com/master-data-management-what-why-how-who)
+- [MDS and SCD](https://social.msdn.microsoft.com/Forums/sqlserver/en-US/0e941c1f-5ed3-426a-8370-e20bba6a5d04/mds-and-scd?forum=sqlmds)
 
 # Blogs:
 - [Data Qualtity Services (DQS)](https://blogs.msdn.microsoft.com/dqs/)
