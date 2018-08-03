@@ -221,6 +221,7 @@ How the logical model will be stored on the physical resources:
 - [Importing Data Into Master Data Services 2012](https://melissa-coates.squarespace.com/entries/2013/2/16/importing-data-into-master-data-services-2012-part-1.html)
 - [Практическое применение Master Data Services в MS SQL Server 2012](https://habr.com/post/224981/)
 - [7 ошибок ETL-разработчика](https://habr.com/post/273243/)
+- [Create First Data WareHouse](https://www.codeproject.com/Articles/652108/Create-First-Data-WareHouse)
 
 # Blogs:
 - [Data Qualtity Services (DQS)](https://blogs.msdn.microsoft.com/dqs/)
