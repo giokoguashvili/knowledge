@@ -227,6 +227,7 @@ How the logical model will be stored on the physical resources:
 
 # Blogs:
 - [Data Qualtity Services (DQS)](https://blogs.msdn.microsoft.com/dqs/)
+- [MDM/MDS - Jeremy Kashel's Blog](http://blogs.adatis.co.uk/jeremykashel)
 
 ## Definations:
 
