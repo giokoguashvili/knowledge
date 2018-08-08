@@ -291,5 +291,12 @@ How the logical model will be stored on the physical resources:
  
  SSAS metaphor: **hierarchy**
  
+ # Courses:
+ - [Microsoft: DAT251x Introduction to Data Modeling](https://courses.edx.org/courses/course-v1:Microsoft+DAT251x+2T2018/course/)
+ - [Microsoft: DAT217x Implementing ETL with SQL Server Integration Services](https://courses.edx.org/courses/course-v1:Microsoft+DAT217x+3T2017a/course/)
+ - [Microsoft: DAT226x Creating a Master Data Solution with SQL Server Master Data Services (MDS)](https://courses.edx.org/courses/course-v1:Microsoft+DAT226x+2T2018/course/)
+
+
+ 
  
  
