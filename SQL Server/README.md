@@ -235,6 +235,7 @@ How the logical model will be stored on the physical resources:
 - [Data Qualtity Services (DQS)](https://blogs.msdn.microsoft.com/dqs/)
 - [MDM/MDS - Jeremy Kashel's Blog](http://blogs.adatis.co.uk/jeremykashel)
 - [DWGEEK.COM](http://dwgeek.com/category/dwh/)
+- [mssqltips.com](https://www.mssqltips.com/sql-server-tip-category/17/integration-services-development/)
 
 ## Definations:
 
