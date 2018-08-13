@@ -102,9 +102,10 @@ Learn more in the Data Warehouse and OLAP section below.
    - By Customer
    - By Product
    
-### Date Wharehouse Schemas
+### [Date Wharehouse Schemas](https://blogs.sap.com/2014/07/05/star-schema-vs-snowflake-schema-vs-fact-constellation-schema/)
 - Star Schema
 - Snowflake Schema
+- Fact Constellation
 
 ### Data Modeling Considerations 
 - Measures
