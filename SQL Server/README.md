@@ -225,7 +225,7 @@ How the logical model will be stored on the physical resources:
 - [Master Data Management - What, Why, How & Who](https://www.profisee.com/master-data-management-what-why-how-who)
 - [MDS and SCD](https://social.msdn.microsoft.com/Forums/sqlserver/en-US/0e941c1f-5ed3-426a-8370-e20bba6a5d04/mds-and-scd?forum=sqlmds)
 - [4 Common Master Data Management Implementation Styles](https://blog.stibosystems.com/4-common-master-data-management-implementation-styles)
-
+- **[Data Integration Solutions for Master Data Management](https://technet.microsoft.com/en-us/library/aa964123(v=sql.90).aspx)**
 
 - [Data Warehouse Surrogate Key Design – Advantages and Disadvantages](http://dwgeek.com/data-warehouse-surrogate-key-design-advantages-disadvantages.html/)
 - [Slowly Changing Dimensions (SCD) in Data Warehouse](http://dwgeek.com/slowly-changing-dimensions-scd.html/)
