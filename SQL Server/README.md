@@ -226,7 +226,6 @@ How the logical model will be stored on the physical resources:
 - [Master Data Management - What, Why, How & Who](https://www.profisee.com/master-data-management-what-why-how-who)
 - [4 Common Master Data Management Implementation Styles](https://blog.stibosystems.com/4-common-master-data-management-implementation-styles)
 - **[Data Integration Solutions for Master Data Management](https://technet.microsoft.com/en-us/library/aa964123(v=sql.90).aspx)**
-- **[SSIS Design Patterns](https://social.technet.microsoft.com/wiki/contents/articles/10844.ssis-design-patterns.aspx)**
 - [Data Warehouse Surrogate Key Design – Advantages and Disadvantages](http://dwgeek.com/data-warehouse-surrogate-key-design-advantages-disadvantages.html/)
 - **[SDC](https://en.wikipedia.org/wiki/Slowly_changing_dimension)**
   - [UNDERSTAND SLOWLY CHANGING DIMENSION (SCD) WITH AN EXAMPLE IN SSIS](http://www.learnmsbitutorials.net/slowly-changing-dimensions-ssis.php)
@@ -302,6 +301,11 @@ How the logical model will be stored on the physical resources:
  
  SSAS metaphor: **hierarchy**
  
+ 
+ # [SSIS Design Patterns](https://social.technet.microsoft.com/wiki/contents/articles/10844.ssis-design-patterns.aspx)
+ - [Evaluating 3 Different ETL Workflows](https://www.bbdevnetwork.com/blogs/evaluating-3-different-etl-workflows/)
+ - [What is Truncate & Load in ETL](http://wisdomschema.com/2015/08/what-is-truncate-load-in-etl/)
+ 
  # Tutorials
  - [Database design tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
  - [SQL Server Integration Services (SSIS) Tutorial](https://www.youtube.com/watch?v=3cPq9FXk-RA&list=PLNIs-AWhQzcmPg_uV2BZi_KRG4LKs6cRs) - youtube
@@ -311,9 +315,3 @@ How the logical model will be stored on the physical resources:
  - [Microsoft: DAT251x Introduction to Data Modeling](https://courses.edx.org/courses/course-v1:Microsoft+DAT251x+2T2018/course/)
  - [Microsoft: DAT217x Implementing ETL with SQL Server Integration Services](https://courses.edx.org/courses/course-v1:Microsoft+DAT217x+3T2017a/course/)
  - [Microsoft: DAT226x Creating a Master Data Solution with SQL Server Master Data Services (MDS)](https://courses.edx.org/courses/course-v1:Microsoft+DAT226x+2T2018/course/)
-
-
-
- 
- 
- 
