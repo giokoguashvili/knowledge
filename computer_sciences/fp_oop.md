@@ -40,3 +40,5 @@ What Is Object-Oriented Programming? - Page 247. TAPL
 - Inheritance
 - Open recursion
 
+# Hexlet
+  - [Про ООП. Что это и зачем оно (часть 2) (#general)](https://github.com/Hexlet/hexlet-slack-archive/wiki/Про-ООП.-Что-это-и-зачем-оно-(часть-2)-(%23general))
