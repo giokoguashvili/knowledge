@@ -8,8 +8,27 @@ Key Moments:
 2.	Product NOT Project!
 3.	The Product Vision
 
+
+⦁ RAM - Responsibility Assignment Matrix (RACI model)
+https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
+
+⦁ Software Development Project Roles and Responsibilities
+https://www.atlascode.com/blog/software-development-project-roles-and-responsibilities/
+
+⦁ Five Key Roles and Responsibilities for Software Development Projects Success
+http://solve100.com/responsibilities-for-software-development-success/
+
 ⦁	Stakeholder Needs and Requirements
 https://www.sebokwiki.org/wiki/Stakeholder_Needs_and_Requirements
+
+⦁	Elevator pitch
+https://en.wikipedia.org/wiki/Elevator_pitch
+
+⦁	How We Write a Product Vision
+https://www.yegor256.com/2014/10/20/how-we-write-product-vision.html
+
+⦁	Key Roles in a Software Project
+https://www.yegor256.com/2016/07/10/software-project-roles.html
 
 MDD
 https://www.happybearsoftware.com/things-incompetent-developers-do
@@ -20,27 +39,13 @@ https://www.happybearsoftware.com/things-incompetent-developers-do
 4.	Architecture
 5.	System
 
-
 Poduct owner - Poduct Vsion Satement
 Therefore, the product owner creates the vision. 
 
 Product Statement isn't a Mission. For example: 
 Disney says that its mission is: "to make people happy." They've got hundreds of products that help them accomplish this mission.
 
-
-⦁	Elevator pitch
-https://en.wikipedia.org/wiki/Elevator_pitch
-⦁	How We Write a Product Vision
-https://www.yegor256.com/2014/10/20/how-we-write-product-vision.html
-⦁	Responsibility assignment matrix
-https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
-
 Key Roles:
-
-⦁	Software Development Project Roles and Responsibilities
-https://www.atlascode.com/blog/software-development-project-roles-and-responsibilities/
-⦁	Key Roles in a Software Project
-https://www.yegor256.com/2016/07/10/software-project-roles.html
 
 1.	Product Owner (PO) - AppProcess
 2.	Business Analyst (BA) - AppLogger
