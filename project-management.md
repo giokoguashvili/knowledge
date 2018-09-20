@@ -1,9 +1,9 @@
 # Poject Magement
 
-Preferable things
-1.	Collaborate without Meetings
-2.	Individual Responsibility over Teamwork
-3.	Monitoring and Analysis instead of Estimating and Planning
+Preferable things (What/How)
+1.	Collaborate without Meetings (More Push, less Pull)
+2.	Individual Responsibility over Teamwork (Explicit Roles)
+3.	Monitoring and Analysis instead of Estimating and Planning (Task Oriented)
 
 Key Moments:
 1.	Stakeholder Needs and Requirements
