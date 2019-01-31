@@ -65,4 +65,47 @@ First(Pair(One)(Two))
 Second(Pair(One)(Two))
 ```
 
+# Type Theory
+
+Mathematical structure    
+    In mathematics, a structure on a set is an additional mathematical object that, in some manner, attaches (or relates) to that set to endow it with some additional meaning or significance.
+
+Type theory
+    In mathematics, logic, and computer science, a type theory is any of a class of formal systems, some of which can serve as alternatives to set theory as a foundation for all mathematics. In type theory, every "term" has a "type" and operations are restricted to terms of a certain type.
+
+Set theory studies any type of set, and group theory studies a specific type of set called a group, which is defined by group axioms. The elements of a group must conform and abide by the group axioms, whereas in set theory a set can be just a collection of unrelated elements not defined by any type of structure.
+
+Category theory is a toolset for describing the general abstract structures in mathematics. Paradigm. As opposed to set theory, category theory focuses not on elements x , y , ⋯ x,y, \cdots – called objects – but on the relations between these objects: the (homo)morphisms between them.
+
+Abstract Algebra
+   In algebra, which is a broad division of mathematics, abstract algebra (occasionally called modern algebra) is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras. 
+
+Algebric Types 
+    In computer programming, especially functional programming and type theory, an algebraic data type is a kind of composite type, i.e., a type formed by combining other types.
+    Two common classes of algebraic types are product types (i.e., tuples and records) and sum types (i.e., tagged or disjoint unions or variant types).
+
+Set theory is a branch of mathematical logic that studies sets, which informally are collections of objects.
+
+    Groups  - is a set equipped with a binary operation which combines any two elements to form a third element in such a way that four conditions called group axioms are satisfied, namely closure, associativity, identity and invertibility,  
+    Fields - is a set on which addition (+), subtraction (-), multiplication (*) and division (/) are defined, and behave as the corresponding operations on rational and real numbers do,
+    Rings - two binary operations that generalize the arithmetic operations of addition (+) and multiplication (*),
+    ...,
+    ...
+
+Dependent Types
+    In computer science and logic, a dependent type is a type whose definition depends on a value. A "pair of integers" is a type. A "pair of integers where the second is greater than the first" is a dependent type because of the dependence on the value. 
+
+Math Logic, Proof theory, 
+
+Systematic Type Theory
+Martin Lof Type Theory
+   Algebric data types
+   Dependent types
+Category Theory
+   Functors, Monoids, Monads
+Intuitionistic logic
+   Propositons as types
+Hindley-Millner type inference
+
+
 
