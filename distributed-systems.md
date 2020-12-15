@@ -23,6 +23,11 @@
 - [Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 - **CAP Theorem**
 - **Distributed Transactions**
+- [The Raft Consensus Algorithm](https://raft.github.io/)
+
+# Databases
+### Azure Cosmos DB
+- [Build modern apps with big data at a global scale](https://www.arbelatech.com/insights/white-papers/build-modern-apps-with-big-data-at-a-global-scale) - pdf
 
 # CAP Theorem
 
