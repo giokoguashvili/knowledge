@@ -25,9 +25,12 @@
 - **Distributed Transactions**
 - [The Raft Consensus Algorithm](https://raft.github.io/)
 
-# Databases
-### Azure Cosmos DB
-- [Build modern apps with big data at a global scale](https://www.arbelatech.com/insights/white-papers/build-modern-apps-with-big-data-at-a-global-scale) - pdf
+# [Databases](https://db-engines.com/en/system/Amazon+Aurora%3BAmazon+DynamoDB%3BMicrosoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server)
+- [Microsoft Azure Cosmos DB](docs.microsoft.com/azure/cosmos-db)
+  - [Build modern apps with big data at a global scale](https://www.arbelatech.com/insights/white-papers/build-modern-apps-with-big-data-at-a-global-scale) - pdf
+- [Amazon Aurora](docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_Aurora.html)
+- [Amazon DynamoDB](docs.aws.amazon.com/dynamodb)
+- [Google Cloud Spanner](	cloud.google.com/spanner/docs)
 
 # CAP Theorem
 
@@ -58,7 +61,6 @@ The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/
 - [CAP Twelve Years Later: How the “Rules” Have Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf) - by Eric Brewer
 - [Harvest, Yield, and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.3690&rep=rep1&type=pdf) - by Eric Brewer
 - [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf)
-- []()
 
 ### Slides
 - [Towards Robust Towards Robust Distributed Systems Distributed Systems](https://people.eecs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf)
