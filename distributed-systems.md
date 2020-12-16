@@ -18,10 +18,10 @@
 
 ### Technique
 
-- **Read Replication**
-- **Sharding**
+- [Partitioning](https://en.wikipedia.org/wiki/Partition_(database)#Partitioning_methods)
+- [Replication](https://en.wikipedia.org/wiki/Replication_(computing))
+- [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture))
 - [Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
-- **CAP Theorem**
 - **Distributed Transactions**
 - [The Raft Consensus Algorithm](https://raft.github.io/)
 
