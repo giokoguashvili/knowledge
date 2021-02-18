@@ -25,18 +25,33 @@
 - **Distributed Transactions**
 - [The Raft Consensus Algorithm](https://raft.github.io/)
 
-# [Databases](https://db-engines.com/en/system/Amazon+Aurora%3BAmazon+DynamoDB%3BMicrosoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server)
-- [Microsoft Azure Cosmos DB](docs.microsoft.com/azure/cosmos-db)
-  - [Build modern apps with big data at a global scale](https://www.arbelatech.com/insights/white-papers/build-modern-apps-with-big-data-at-a-global-scale) - pdf
+# [Databases](https://db-engines.com/en/system/Amazon+Aurora%3BAmazon+DynamoDB%3BGoogle+Cloud+Spanner%3BMicrosoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server)
+- [Build modern apps with big data at a global scale](https://www.arbelatech.com/insights/white-papers/build-modern-apps-with-big-data-at-a-global-scale) - pdf
 - [Amazon Aurora](docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_Aurora.html)
 - [Amazon DynamoDB](docs.aws.amazon.com/dynamodb)
 - [Google Cloud Spanner](	cloud.google.com/spanner/docs)
 
+# [Types of databases](https://medium.com/swlh/4-types-of-nosql-databases-d88ad21f7d3b)
+
+- SQL Databases
+  - Relational (OLTP)
+  - Analytical (OLAP)
+- NoSQL Databases
+  - Document databases
+  - Key-value stores
+  - Column-oriented databases
+  - Graph databases
+
+
 # System Properties Comparison
+
 - [Amazon Aurora vs. Amazon DynamoDB vs. Google Cloud Spanner vs. Microsoft Azure Cosmos DB vs. Microsoft SQL Server](https://db-engines.com/en/system/Amazon+Aurora%3BAmazon+DynamoDB%3BGoogle+Cloud+Spanner%3BMicrosoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server)
 - [Amazon DynamoDB vs. Cassandra vs. CouchDB vs. Riak KV](https://db-engines.com/en/system/Amazon+DynamoDB%3BCassandra%3BCouchDB%3BRiak+KV)
 
 # CAP Theorem
+
+### [ACID](https://en.wikipedia.org/wiki/ACID)
+### [BASE]()
 
 ### [High Availability](https://en.wikipedia.org/wiki/High_availability)
 
