@@ -47,6 +47,7 @@
 
 - [Amazon Aurora vs. Amazon DynamoDB vs. Google Cloud Spanner vs. Microsoft Azure Cosmos DB vs. Microsoft SQL Server](https://db-engines.com/en/system/Amazon+Aurora%3BAmazon+DynamoDB%3BGoogle+Cloud+Spanner%3BMicrosoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server)
 - [Amazon DynamoDB vs. Cassandra vs. CouchDB vs. Riak KV](https://db-engines.com/en/system/Amazon+DynamoDB%3BCassandra%3BCouchDB%3BRiak+KV)
+- [Aerospike vs. Couchbase vs. Redis](https://db-engines.com/en/system/Aerospike%3BCouchbase%3BRedis)
 
 # CAP Theorem
 
