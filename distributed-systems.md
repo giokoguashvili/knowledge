@@ -17,7 +17,8 @@
 - **Messagein:** Kafka
 
 ### Technique
-
+- Stackoverflow Q&A
+  - [Difference between Sharding and Replication](https://stackoverflow.com/a/11571916/5200896)
 - [Partitioning](https://en.wikipedia.org/wiki/Partition_(database)#Partitioning_methods)
 - [Replication](https://en.wikipedia.org/wiki/Replication_(computing))
 - [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture))
