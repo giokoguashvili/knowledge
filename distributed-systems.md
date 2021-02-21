@@ -17,8 +17,7 @@
 - **Messaging:** Kafka
 
 ### Technique
-- Stackoverflow Q&A
-  - [Difference between Sharding and Replication](https://stackoverflow.com/a/11571916/5200896)
+
 - [Partitioning](https://en.wikipedia.org/wiki/Partition_(database)#Partitioning_methods)
 - [Replication](https://en.wikipedia.org/wiki/Replication_(computing))
 - [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture))
@@ -31,6 +30,13 @@
 - [Amazon Aurora](docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_Aurora.html)
 - [Amazon DynamoDB](docs.aws.amazon.com/dynamodb)
 - [Google Cloud Spanner](	cloud.google.com/spanner/docs)
+
+### Quora/Stackoverflow Q&A
+- Stackoverflow
+  - [Difference between Sharding and Replication](https://stackoverflow.com/a/11571916/5200896)
+- Quora
+  - [Why is MongoDB losing popularity?](https://www.quora.com/Why-is-MongoDB-losing-popularity)
+
 
 # [Types of databases](https://medium.com/swlh/4-types-of-nosql-databases-d88ad21f7d3b)
 
