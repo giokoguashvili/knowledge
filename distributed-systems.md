@@ -14,7 +14,7 @@
 - **Computation:** Hadoop, Spark, Storm
 - **Synchronization:** NTP, vector clocks
 - **Consensus:** Paxos, Zookeeper
-- **Messagein:** Kafka
+- **Messaging:** Kafka
 
 ### Technique
 - Stackoverflow Q&A
@@ -61,10 +61,10 @@
 - [Floating IPs: Start Architecting Your Applications for High Availability](https://blog.digitalocean.com/floating-ips-start-architecting-your-applications-for-high-availability/) - digitalocean.com
 
 ### Messaging
-- [Message Delivery Reliability](https://getakka.net/articles/concepts/message-delivery-reliability.html)
-- [Nobody Needs Reliable Messaging](https://www.infoq.com/articles/no-reliable-messaging/)
-- [Erlang documentation](http://erlang.org/faq/academic.html)
-- 
+- [Message Delivery Reliability](https://getakka.net/articles/concepts/message-delivery-reliability.html) - getakka.net
+- [Nobody Needs Reliable Messaging](https://www.infoq.com/articles/no-reliable-messaging/) - infoq.com
+- [Erlang documentation](http://erlang.org/faq/academic.html) - erlang.org
+- [How to Guarantee Delivery of Messages in Akka.NET](https://petabridge.com/blog/akkadotnet-at-least-once-message-delivery/) - petabridge.com
 ### Wikis
 - [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) - wikipedia.com
 - [PACELC theorem](https://en.wikipedia.org/wiki/PACELC_theorem) - wikipedia.com
