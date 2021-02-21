@@ -60,6 +60,11 @@
 - [What is High Availability?](https://www.digitalocean.com/community/tutorials/what-is-high-availability) - digitalocean.com
 - [Floating IPs: Start Architecting Your Applications for High Availability](https://blog.digitalocean.com/floating-ips-start-architecting-your-applications-for-high-availability/) - digitalocean.com
 
+### Messaging
+- [Message Delivery Reliability](https://getakka.net/articles/concepts/message-delivery-reliability.html)
+- [Nobody Needs Reliable Messaging](https://www.infoq.com/articles/no-reliable-messaging/)
+- [Erlang documentation](http://erlang.org/faq/academic.html)
+- 
 ### Wikis
 - [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) - wikipedia.com
 - [PACELC theorem](https://en.wikipedia.org/wiki/PACELC_theorem) - wikipedia.com
