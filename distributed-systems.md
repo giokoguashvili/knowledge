@@ -111,6 +111,6 @@ The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/
 - Conflicts
   - LWW - Last Write Win
   - Vector Clocks
-  - CRDT
+  - [CRDT - Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) ([Delta CRDT](https://arxiv.org/pdf/1603.01529.pdf))
 - Membership and failure detection
   - Gossip-based membership protocol and failure detection.
