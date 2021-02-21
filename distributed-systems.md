@@ -100,3 +100,17 @@ The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/
 
 ### Documentations
 - [What is the CAP Theorem?](https://apple.github.io/foundationdb/cap-theorem.html) - FoundationDB
+
+# Glossary
+### [Amazon's Dynamo](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+- Partitioning
+  - Consistent Hashing
+- Handling temporary failures
+  - Sloppy Quorum 
+  - Hinted handoff
+- Conflicts
+  - LWW - Last Write Win
+  - Vector Clocks
+  - CRDT
+- Membership and failure detection
+  - Gossip-based membership protocol and failure detection.
