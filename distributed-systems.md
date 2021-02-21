@@ -116,3 +116,10 @@ The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/
     - [A Conflict-Free Replicated JSON Datatype](https://arxiv.org/pdf/1608.03960.pdf)
 - Membership and failure detection
   - Gossip-based membership protocol and failure detection.
+
+# Stream Processing
+- Spark
+- Flink
+- Samza
+- Hadoop
+- [Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1](https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html)
