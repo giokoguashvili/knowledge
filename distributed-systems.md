@@ -117,6 +117,14 @@ The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/
 - Membership and failure detection
   - Gossip-based membership protocol and failure detection.
 
+- Consensus Algorithms
+  - [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)) - wikipedia.org
+  - [Raft](https://raft.github.io/) - raft.github.io
+  - [Zab](https://cwiki.apache.org/confluence/display/ZOOKEEPER/Zab+vs.+Paxos)
+- Service Discovery Systems
+  - [Zookeeper](https://zookeeper.apache.org/doc/r3.6.2/zookeeperInternals.html)
+  - [Consul](https://www.consul.io/docs/intro)
+  - 
 # Stream Processing
 - Spark
 - Flink
