@@ -124,7 +124,12 @@ The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/
 - Service Discovery Systems
   - [Zookeeper](https://zookeeper.apache.org/doc/r3.6.2/zookeeperInternals.html)
   - [Consul](https://www.consul.io/docs/intro)
-  - 
+  
+- Multi-Master Replication
+- Replication Factor
+- Bidirectonal Replicaiton
+...
+
 # Stream Processing
 - Spark
 - Flink
