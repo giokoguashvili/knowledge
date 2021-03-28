@@ -38,3 +38,4 @@
 - Stackoverflow
  - [Consuming from single kafka partition by multiple consumers](https://stackoverflow.com/questions/57952538/consuming-from-single-kafka-partition-by-multiple-consumers)
  - [How to implement Exactly-Once Kafka Consumer without manually assigning partitions](https://stackoverflow.com/questions/58029989/how-to-implement-exactly-once-kafka-consumer-without-manually-assigning-partitio)
+ - [using assign instead of subscribe in kafka consumer side](https://stackoverflow.com/questions/52051849/using-assign-instead-of-subscribe-in-kafka-consumer-side)
