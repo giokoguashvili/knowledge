@@ -17,8 +17,8 @@
 - [Does Kafka really guarantee the order of messages?](https://blog.softwaremill.com/does-kafka-really-guarantee-the-order-of-messages-3ca849fd19d2) - blog.softwaremill.com
 
 ### Client Docs
-- [Class KafkaConsumer<K,V>](https://kafka.apache.org/0100/javadoc/index.html?org/apache/kafka/clients/consumer/KafkaConsumer.html) - kafka.apache.org
- - Interface ConsumerRebalanceListener 
+- [javadoc](https://kafka.apache.org/0100/javadoc/index.html?org/apache/kafka/clients/consumer/KafkaConsumer.html) - kafka.apache.org
+- [Introduction to librdkafka - the Apache Kafka C/C++ client library](https://github.com/edenhill/librdkafka/blob/master/INTRODUCTION.md) - github.com
 
 ### UI Tools
 - [Confluent Platform](https://docs.confluent.io/platform/current/kafka/kafka-basics.html)
@@ -30,3 +30,11 @@
 ### [Confluent Tutorials](https://kafka-tutorials.confluent.io/)
 - [Console Producer and Consumer Basics, no (de)serializers](https://kafka-tutorials.confluent.io/kafka-console-consumer-producer-basics/kafka.html)
 - [How to read from a specific offset and partition with the Kafka Console Consumer](https://kafka-tutorials.confluent.io/kafka-console-consumer-read-specific-offsets-partitions/kafka.html)
+
+### Videos
+- [Youtube Playlist](https://www.youtube.com/watch?v=A_yUaPARv8U&list=PL2XGvKfYRbDsiHlCfLDh0pGdk-0Dykxfy)
+
+### Q&A
+- Stackoverflow
+ - [Consuming from single kafka partition by multiple consumers](https://stackoverflow.com/questions/57952538/consuming-from-single-kafka-partition-by-multiple-consumers)
+ - [How to implement Exactly-Once Kafka Consumer without manually assigning partitions](https://stackoverflow.com/questions/58029989/how-to-implement-exactly-once-kafka-consumer-without-manually-assigning-partitio)
