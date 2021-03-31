@@ -15,6 +15,8 @@
 - [Kafka — Idempotent Producer And Consumer](https://medium.com/@shesh.soft/kafka-idempotent-producer-and-consumer-25c52402ceb9) - medium.com
 - [Help, Kafka ate my data!](https://blog.softwaremill.com/help-kafka-ate-my-data-ae2e5d3e6576) - blog.softwaremill.com
 - [Does Kafka really guarantee the order of messages?](https://blog.softwaremill.com/does-kafka-really-guarantee-the-order-of-messages-3ca849fd19d2) - blog.softwaremill.com
+- [Apache Kafka Rebalance Protocol, or the magic behind your streams applications](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2#:~:text=Kafka%20Connect%20uses%20the%20group,when%20configuration%20is%20submitted%2Fupdated.) - medium.com
+
 
 ### Client Docs
 - [javadoc](https://kafka.apache.org/0100/javadoc/index.html?org/apache/kafka/clients/consumer/KafkaConsumer.html) - kafka.apache.org
