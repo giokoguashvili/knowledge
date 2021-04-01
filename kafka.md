@@ -43,3 +43,4 @@
  - [How to implement Exactly-Once Kafka Consumer without manually assigning partitions](https://stackoverflow.com/questions/58029989/how-to-implement-exactly-once-kafka-consumer-without-manually-assigning-partitio)
  - [using assign instead of subscribe in kafka consumer side](https://stackoverflow.com/questions/52051849/using-assign-instead-of-subscribe-in-kafka-consumer-side)
  - [Need to understand kafka broker property “log.flush.interval.messages”](https://stackoverflow.com/questions/33970374/need-to-understand-kafka-broker-property-log-flush-interval-messages)
+ - [Kafka - min.insync.replicas interpretation](https://stackoverflow.com/questions/62326946/kafka-min-insync-replicas-interpretation/)
