@@ -7,6 +7,7 @@
 
 
 ### Blog Posts
+- [Apache Kafka Design](http://kafka.apache.org/documentation.html#design) - kafka.apache.org
 - [RabbitMQ vs Kafka Part 1 - Two Different Takes on Messaging](https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies) - jack-vanlightly.com
 - [Kafka in a Nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/#:~:text=Kafka%20topics%20are%20divided%20into,from%20a%20topic%20in%20parallel.) - sookocheff.com
 - [Avoiding Data Loss](https://docs.cloudera.com/HDPDocuments/HDP2/HDP-2.6.4/bk_kafka-component-guide/content/avoiding-data-loss.html) - docs.cloudera.com
