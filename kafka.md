@@ -44,3 +44,21 @@
  - [using assign instead of subscribe in kafka consumer side](https://stackoverflow.com/questions/52051849/using-assign-instead-of-subscribe-in-kafka-consumer-side)
  - [Need to understand kafka broker property “log.flush.interval.messages”](https://stackoverflow.com/questions/33970374/need-to-understand-kafka-broker-property-log-flush-interval-messages)
  - [Kafka - min.insync.replicas interpretation](https://stackoverflow.com/questions/62326946/kafka-min-insync-replicas-interpretation/)
+
+### Settings
+```
+- replication-factor=3
+- min.insync.replicas=1
+- acks=-1
+- unclean.leader.election.enable
+- log.flush.interval
+
+- replica.lag.time.max.ms
+    We refer to nodes satisfying these two conditions as being "in sync" to avoid the vagueness of "alive" or "failed". 
+    The leader keeps track of the set of "in sync" nodes. If a follower dies, 
+    gets stuck, or falls behind, the leader will remove it from the list of in sync replicas. 
+    The determination of stuck and lagging replicas is controlled by the replica.lag.time.max.ms configuration.
+
+
+kafka-console-producer --topic Topic-3 --bootstrap-server broker:9092 --property parse.key=true --property key.separator=":"
+```
