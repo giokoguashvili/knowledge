@@ -1,3 +1,4 @@
+# [Replication](https://en.wikipedia.org/wiki/Replication_(computing))
 ```
 NewSQL
     In Memory
@@ -41,8 +42,11 @@ Throghophut
 Availability
 Consistency
 
-Replication     - read scaling
- ⁃ Sync/Async/Semisync
+Replication     - used for HA or read scaling
+ ⁃ Sync/Async/Semi
+    Sync  = local + remote commit
+    Async = local commit
+    Semi  = local commit + remote ack
  ⁃ Logical/Physical
     Logical
         SBR     - Statment Based Replication
@@ -63,4 +67,39 @@ Partitioning
 Clustering
 
 Snapshoting
+    COW - Copy On Write
+
+RPS - Request Per Second 
+TPS - Transaction Per Seccond
+WAL - Write Ahead Logging
+AOF - Append Only File
+
+Transaction
+ACID
+BASE
+MVCC2PT
+
+Sharding
+    Hash function
+    Routing
+        Client Side
+        Proxy
+        Coordinator
+    Select
+        Map/Reduce
+
+Service reliability 
+
+    Uptime            Downtime (Yearly)
+    99.00000%      3d 15h 39m
+    99.90000%      8h 45m 56s
+    99.99000%      52m 35s
+    99.99900%      5m 15s
+    99.99990%      31s
+    99.99999%      3s
+
+
+PostgreSQL
+    VACUUM
+    Bloat
 ```
