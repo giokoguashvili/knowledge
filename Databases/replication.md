@@ -1,105 +1,74 @@
 # [Replication](https://en.wikipedia.org/wiki/Replication_(computing))
+
+
+## Reason
+- To keep data geographically close to your users (and thus reduce access latency) 
+- To allow the system to continue working even if some of its parts have failed (and thus increase availability) 
+- To scale out the number of machines that can serve read queries (and thus increase read throughput)
+
+## Replication Architectures
+- Single-leader
+    - Master-Slave
+- Multi-leader 
+    - Multi-Master
+- Leaderless
+    - Master-Master
+    - Masterless
+    - Primary Owner
+
+- Sync/Async/Semi
+    - Synchronously  - local + remote commit
+    - Asynchronously - local commit
+    - Semi  - local commit + remote ack
+
+- Logical/Physical
+    - Logical
+        - SBR           - Statment Based Replication
+        - WAL Shipping  - Write-Ahead Log  Shipping
+        - RBR/DBR       - Row/Document Based Replication
+        - Mixed
+- Pull/Push
+
+## Multi-Leader Replication Topologies
+- Circular topology
+- Star topology
+- All-to-all topology
+
+## Types
+- Active Replication - which is performed by processing the same request at every replica
+- Passive Replication - which involves processing every request on a single replica and transferring the result to the other replicas
+
+
 ```
-NewSQL
-    In Memory
-    Key Value
-    Consistent Shrding (Distributed)
-    Schemaless
-
-Databases
-    Riak 
-    Couchbase
-    GridGain
-    Redis
-    Memchashed
-    Aerospike
-    Apache Ignite
-    Kiara DB
-    VoltDB
-    TimescaleDB (up from PostgreSQL)
-    InfluxSB
-
-    SQL Server
-    MySQL
-    PostgreSQL
-    MongoDB
-    Cassandra
-
-    Tarantool
-    Redis (CouchBase/Aerospike)
- 
-    ElasticSearch
-    Kafka
-    RabbitMQ
-
-
 Kafka vs RabbitMQ
 Akka.NET Messaging Delivery and Persistance
 Event Soursong with Kafka
-
-Latency
-Throghophut
-Availability
-Consistency
-
-Replication     - used for HA or read scaling
- ⁃ Sync/Async/Semi
-    Sync  = local + remote commit
-    Async = local commit
-    Semi  = local commit + remote ack
- ⁃ Logical/Physical
-    Logical
-        SBR     - Statment Based Replication
-        RBR/DBR - Row/Document Based Replication
-        Mixed
- ⁃ Pull/Push
- ⁃ Master-Slave
-   Master-Master
-   Multi-Master
-   Masterless
-   Primary Owner
-
-Active Replication  - which is performed by processing the same request at every replica
-Passive Replication - which involves processing every request on a single replica and transferring the result to the other replicas
-
-Sharding    - write scalling
-Partitioning
-Clustering
 
 Snapshoting
     COW - Copy On Write
 
 RPS - Request Per Second 
 TPS - Transaction Per Seccond
+QPS - Query rate Per Second 
 WAL - Write Ahead Logging
 AOF - Append Only File
 
-Transaction
-ACID
-BASE
-MVCC2PT
-
-Sharding
-    Hash function
-    Routing
-        Client Side
-        Proxy
-        Coordinator
-    Select
-        Map/Reduce
-
-Service reliability 
-
-    Uptime            Downtime (Yearly)
-    99.00000%      3d 15h 39m
-    99.90000%      8h 45m 56s
-    99.99000%      52m 35s
-    99.99900%      5m 15s
-    99.99990%      31s
-    99.99999%      3s
-
-
-PostgreSQL
-    VACUUM
-    Bloat
+SC  - strong consistency
+HA  - high throughput
+HT  - high availability
 ```
+
+## Problems with Replication Lag 
+- Read-after-write consistency 
+> Users should always see data that they submitted themselves
+- Monotonic Reads 
+> After users have seen the data at one point in time, they shouldn’t later see the data from some earlier point in time
+- Consistent Prefix Reads
+> Users should see the data in a state that makes causal sense: for example, seeing a question and its reply in the correct order
+
+## Papers
+- [Chain Replication for Supporting High Throughput and Availability](https://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf)
+
+## Q&A
+- [Difference between Stream Replication and logical replication](https://stackoverflow.com/questions/33621906/difference-between-stream-replication-and-logical-replication) - stackoverflow.com
+
