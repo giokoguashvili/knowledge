@@ -324,7 +324,10 @@ How the logical model will be stored on the physical resources:
  - [Understanding SQL Server Log Sequence Numbers for Backups](https://www.mssqltips.com/sqlservertip/3209/understanding-sql-server-log-sequence-numbers-for-backups/)
  - [Understanding SQL Server Backup Types](https://www.sqlshack.com/understanding-sql-server-backup-types/)
  - [Understanding SQL Server Recovery Models](https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/understanding-sql-server-recovery-models/)
- 
+ - [Accelerated database recovery](https://docs.microsoft.com/en-us/sql/relational-databases/accelerated-database-recovery-concepts?view=sql-server-ver15)
+ - [Accelerated Database Recovery in Azure SQL](https://docs.microsoft.com/en-us/azure/azure-sql/accelerated-database-recovery)
+ - [Accelerated Database Recovery in SQL Server 2019](https://www.mssqltips.com/sqlservertip/5971/accelerated-database-recovery-in-sql-server-2019/)
+ - 
  # [SSIS Design Patterns](https://social.technet.microsoft.com/wiki/contents/articles/10844.ssis-design-patterns.aspx)
  - [Evaluating 3 Different ETL Workflows](https://www.bbdevnetwork.com/blogs/evaluating-3-different-etl-workflows/)
  - [What is Truncate & Load in ETL](http://wisdomschema.com/2015/08/what-is-truncate-load-in-etl/)
