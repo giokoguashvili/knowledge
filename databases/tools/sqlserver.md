@@ -329,6 +329,9 @@ How the logical model will be stored on the physical resources:
  - [Accelerated database recovery](https://docs.microsoft.com/en-us/sql/relational-databases/accelerated-database-recovery-concepts?view=sql-server-ver15)
  - [Accelerated Database Recovery in Azure SQL](https://docs.microsoft.com/en-us/azure/azure-sql/accelerated-database-recovery)
  - [Accelerated Database Recovery in SQL Server 2019](https://www.mssqltips.com/sqlservertip/5971/accelerated-database-recovery-in-sql-server-2019/)
+ - [The Transaction Log (SQL Server)](https://docs.microsoft.com/en-us/sql/relational-databases/logs/the-transaction-log-sql-server?view=sql-server-ver15)
+ - [Database Checkpoints (SQL Server)](https://docs.microsoft.com/en-us/sql/relational-databases/logs/database-checkpoints-sql-server?view=sql-server-ver15)
+ 
  
  # [SSIS Design Patterns](https://social.technet.microsoft.com/wiki/contents/articles/10844.ssis-design-patterns.aspx)
  - [Evaluating 3 Different ETL Workflows](https://www.bbdevnetwork.com/blogs/evaluating-3-different-etl-workflows/)
