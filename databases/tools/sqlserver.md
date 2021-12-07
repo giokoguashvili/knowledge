@@ -303,6 +303,8 @@ How the logical model will be stored on the physical resources:
  
  # Backup & Recovery 
 
+ - [Algorithms for Recovery and Isolation Exploiting Semantics](https://en.wikipedia.org/wiki/Algorithms_for_Recovery_and_Isolation_Exploiting_Semantics)
+ 
  ### Recovery Models
  - Simple (Full Backup)
  - Full (All backups)
