@@ -323,7 +323,7 @@ How the logical model will be stored on the physical resources:
  - [Difference between Full backup and Copy-only full backup](https://dba.stackexchange.com/questions/45876/difference-between-full-backup-and-copy-only-full-backup)
  - [Understanding SQL Server Log Sequence Numbers for Backups](https://www.mssqltips.com/sqlservertip/3209/understanding-sql-server-log-sequence-numbers-for-backups/)
  - [Understanding SQL Server Backup Types](https://www.sqlshack.com/understanding-sql-server-backup-types/)
-  
+ - [Understanding SQL Server Recovery Models](https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/understanding-sql-server-recovery-models/)
  
  # [SSIS Design Patterns](https://social.technet.microsoft.com/wiki/contents/articles/10844.ssis-design-patterns.aspx)
  - [Evaluating 3 Different ETL Workflows](https://www.bbdevnetwork.com/blogs/evaluating-3-different-etl-workflows/)
