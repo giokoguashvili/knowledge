@@ -301,6 +301,29 @@ How the logical model will be stored on the physical resources:
  
  SSAS metaphor: **hierarchy**
  
+ # Backup & Recovery 
+
+ ### Recovery Models
+ - Simple (Full Backup)
+ - Full (All backups)
+ - Bulk-logged (Full, Differential backup)
+ 
+ ### Backup Typs
+ - Full 
+ - Differential
+ - Transaction log 
+ 
+ - File backups
+ - Filegroup backups
+ - Partial backups
+ - Copy-Only backups
+ - Mirror backups
+  
+ ### Posts
+ - [Difference between Full backup and Copy-only full backup](https://dba.stackexchange.com/questions/45876/difference-between-full-backup-and-copy-only-full-backup)
+ - [Understanding SQL Server Log Sequence Numbers for Backups](https://www.mssqltips.com/sqlservertip/3209/understanding-sql-server-log-sequence-numbers-for-backups/)
+ - [Understanding SQL Server Backup Types](https://www.sqlshack.com/understanding-sql-server-backup-types/)
+  
  
  # [SSIS Design Patterns](https://social.technet.microsoft.com/wiki/contents/articles/10844.ssis-design-patterns.aspx)
  - [Evaluating 3 Different ETL Workflows](https://www.bbdevnetwork.com/blogs/evaluating-3-different-etl-workflows/)
