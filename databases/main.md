@@ -105,3 +105,8 @@ Distributed transactions
 	2PC - 2 Phase Commit 
 	Distributed recovery
 ```
+
+# Terms
+- Reliability - The ability to work properly(even some parts/components failed).
+- Durability - The ability of not losing data.
+- Availability - The ability of less downtime, this rely on type of downtimes.
