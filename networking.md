@@ -79,28 +79,28 @@ Data Link Layer
     NDP (IPv6)          - Neighbor Discovery Protocol
 
 Network Layer   
-    IP (IPv4/v6)	    - Internet Protocol version 4/6
-    DHCP	            - Dynamic Host Configuration Protocol
+    IP (IPv4/v6)        - Internet Protocol version 4/6
+    DHCP                - Dynamic Host Configuration Protocol
     STP                 - Spanning Tree Protocol 
-    RIP 	            - Routing Information Protocol
-    OSPF	            - Open Shortest Path First
-    BGP 	            - Border Gateway Protocol
+    RIP                 - Routing Information Protocol
+    OSPF                - Open Shortest Path First
+    BGP                 - Border Gateway Protocol
     
 Transport Layer 
-    TCP	                - Transmission Control Protocol
-    UDP	                - User Datagram Protocol
-    RUDP	            - Reliable UDP
+    TCP                 - Transmission Control Protocol
+    UDP                 - User Datagram Protocol
+    RUDP                - Reliable UDP
 
 Session Layer   
     DNS                 - Domain Name System
-    NetBIOS / IP	    - Network Basic Input/Output System over IP for TCP / IP Environment
+    NetBIOS / IP        - Network Basic Input/Output System over IP for TCP / IP Environment
 
 Application Layer   
     HTTP                - Hypertext Transfer Protocol
     FTP                 - File Transfer Protocol 
     WSS                 - Web Sockets 
-    SMTP	            - Simple Mail Transfer Protocol 
-    TELNET	            - TCP / IP Terminal Emulation Protocol
+    SMTP                - Simple Mail Transfer Protocol 
+    TELNET              - TCP / IP Terminal Emulation Protocol
     NTP                 - Network Time Protocol
 
 Security    
