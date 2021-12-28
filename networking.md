@@ -68,10 +68,12 @@ Telnet                  - an application protocol used on the WAN or LAN to prov
 Firewall        
 Socket      
 Gateway     
+```
 
 - [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) - wiki
 - [TCP / IP protocol stack - reference map](https://informatics.buzdo.com/specific/tcp-ip-1.htm)
 
+```
 Data Link Layer
     ARP (IPv4)          - Address Resolution Protocol 
     NDP (IPv6)          - Neighbor Discovery Protocol
