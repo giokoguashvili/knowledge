@@ -46,5 +46,5 @@ ConfigMap
 Secret
 ```
 
-# Other
+# Tools
 - [A Multitude of Kubernetes Deployment Tools: Kubespray, kops, and kubeadm](https://www.altoros.com/blog/a-multitude-of-kubernetes-deployment-tools-kubespray-kops-and-kubeadm/)
