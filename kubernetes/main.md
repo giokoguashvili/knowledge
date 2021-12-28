@@ -45,3 +45,5 @@ Ingress
 ConfigMap
 Secret
 ```
+
+### kubespray vs kubeadm vs kops
