@@ -1,4 +1,12 @@
 ```
+uname -a
+w
+id
+whoami
+lsmod
+```
+
+```
 whoami
 info
 cal
