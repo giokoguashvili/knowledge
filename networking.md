@@ -18,7 +18,8 @@ Physical Layer
 
         Half-Duplex
         Full-Duplex
-        RJ-45
+        RJ-45 Port
+        SFP Port
     Devices
         Bridge
         Hub
@@ -47,20 +48,32 @@ IP Adresses
 
 OSI                     - Open Systems Interconnection Model
 
+IEEE                    - Network Protocols
+                        802.3   LAN   Ethernet 
+                        802.11  WLAN                    
+RFC                     - Internet Protocols
+W3C                     - Web Standarts
+
 
 WAN                     - Wide Area Network
 LAN                     - Local Area Network
 VLAN                    - Virtual LAN
 VPN                     - Virtual Private Network
+SSL VPN                 - Secure Sockets Layer Virtual Private Network
+IPsec                   - IP Security
+GRE                     - Generic Routing Encapsulation
 
-IEEE - Network Protocols
-    802.3   LAN   Ethernet 
-    802.11  WLAN                    
-RFC  - Internet Protocols
-W3C  - Web Standarts
 
 PAT                     - Port Address Translation
 NAT                     - Network Address Translation
+
+ARP                     - Address Resolution Protocol
+ICMP                    - Internet Control Message Protocol
+RIP                     - Routing Information Protocol
+BGP                     - Border Gateway Protocol
+OSPF                    - Open Shortest Path First
+EIGRP                   - Enhanced Interior Gateway Routing Protocol
+
 
 SSH                     - Secure Shell
 Telnet                  - an application protocol used on the WAN or LAN to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection
