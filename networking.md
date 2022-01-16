@@ -1,3 +1,7 @@
+# OSI model
+![OSI model](https://user-images.githubusercontent.com/8178412/149652541-3e79634d-9691-4491-9999-af23a99089c9.png)
+
+
 # Networking
 ```
 Application     | L7 |              |                       |                   | HTTP/FTP/WS           | DNS/Telnet                            |
@@ -67,12 +71,9 @@ GRE                     - Generic Routing Encapsulation
 PAT                     - Port Address Translation
 NAT                     - Network Address Translation
 
-ARP                     - Address Resolution Protocol
-ICMP                    - Internet Control Message Protocol
-RIP                     - Routing Information Protocol
-BGP                     - Border Gateway Protocol
-OSPF                    - Open Shortest Path First
-EIGRP                   - Enhanced Interior Gateway Routing Protocol
+
+
+
 
 
 SSH                     - Secure Shell
@@ -86,6 +87,10 @@ Gateway
 - [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) - wiki
 - [TCP / IP protocol stack - reference map](https://informatics.buzdo.com/specific/tcp-ip-1.htm)
 
+# Protocol Stack
+![Protocol Stack](https://user-images.githubusercontent.com/8178412/149652519-946df1e8-56ce-483e-bf52-626b6e760546.png)
+![Protocol Stack](https://user-images.githubusercontent.com/8178412/149652522-120953df-3e69-4b83-804a-350cf7fa61d5.gif)
+
 ```
 Data Link Layer
     ARP (IPv4)          - Address Resolution Protocol 
@@ -98,7 +103,10 @@ Network Layer
     RIP                 - Routing Information Protocol
     OSPF                - Open Shortest Path First
     BGP                 - Border Gateway Protocol
-    
+    ICMP                - Internet Control Message Protocol
+    IGMP                - Internet Group Management Protocol
+    EIGRP               - Enhanced Interior Gateway Routing Protocol
+
 Transport Layer 
     TCP                 - Transmission Control Protocol
     UDP                 - User Datagram Protocol
