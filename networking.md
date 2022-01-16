@@ -53,11 +53,10 @@ IP Adresses
 OSI                     - Open Systems Interconnection Model
 
 IEEE                    - Network Protocols
-                        802.3   LAN   Ethernet 
-                        802.11  WLAN                    
+                            802.3   LAN   Ethernet 
+                            802.11  WLAN                    
 RFC                     - Internet Protocols
 W3C                     - Web Standarts
-
 
 WAN                     - Wide Area Network
 LAN                     - Local Area Network
@@ -67,14 +66,8 @@ SSL VPN                 - Secure Sockets Layer Virtual Private Network
 IPsec                   - IP Security
 GRE                     - Generic Routing Encapsulation
 
-
 PAT                     - Port Address Translation
 NAT                     - Network Address Translation
-
-
-
-
-
 
 SSH                     - Secure Shell
 Telnet                  - an application protocol used on the WAN or LAN to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection
