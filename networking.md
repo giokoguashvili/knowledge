@@ -87,13 +87,26 @@ Gateway
 ```
 Data Link Layer
     ARP (IPv4)          - Address Resolution Protocol 
+                          The Address Resolution Protocol is a communication protocol used for discovering the link layer address, such as a MAC address, 
+                          associated with a given internet layer address, typically an IPv4 address
+                          
     NDP (IPv6)          - Neighbor Discovery Protocol
 
 Network Layer   
     IP (IPv4/v6)        - Internet Protocol version 4/6
+    
     DHCP                - Dynamic Host Configuration Protocol
+                          Dynamic Host Configuration Protocol (DHCP) is a client/server protocol that automatically provides an Internet Protocol (IP) host 
+                          with its IP address and other related configuration information such as the subnet mask and default gateway.
+                          
     STP                 - Spanning Tree Protocol 
+                          The Spanning Tree Protocol (STP) is a network protocol that builds a loop-free logical topology for Ethernet networks.
+                          The basic function of STP is to prevent bridge loops and the broadcast radiation that results from them.
+                          
     RIP                 - Routing Information Protocol
+                          The Routing Information Protocol (RIP) uses a single routing metric to measure the distance between the source and the destination network.
+                          Each hop in a path from the source to the destination is assigned a hop-count value, which is typically 1.
+                          
     OSPF                - Open Shortest Path First
     BGP                 - Border Gateway Protocol
     ICMP                - Internet Control Message Protocol (ping)
