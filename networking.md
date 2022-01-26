@@ -96,9 +96,10 @@ Network Layer
     RIP                 - Routing Information Protocol
     OSPF                - Open Shortest Path First
     BGP                 - Border Gateway Protocol
-    ICMP                - Internet Control Message Protocol
+    ICMP                - Internet Control Message Protocol (ping)
     IGMP                - Internet Group Management Protocol
     EIGRP               - Enhanced Interior Gateway Routing Protocol
+
 
 Transport Layer 
     TCP                 - Transmission Control Protocol
@@ -139,3 +140,14 @@ Ports:
     UDP                 - 1900
     RDP                 - 3389
 ```
+
+### [Routing Protocols](https://en.wikipedia.org/wiki/Routing_protocol)
+    IGP - Interior Gateway Protocol
+        RIP
+        OSPF
+        IS-IS
+        IGRP
+        EIGRP
+    EGP - Exterior Gateway Protocol
+        BGP
+![Routing protocol classification computer networks](https://upload.wikimedia.org/wikipedia/commons/4/47/Computer_Network_Routing_Protocol_Classification_-en.png)
