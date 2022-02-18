@@ -24,6 +24,8 @@
 	- Hadoop
 	- [Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1](https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html)
 
+`Flink offers true native streaming, while Spark uses micro batches to emulate streaming.`
+
 - [Build modern apps with big data at a global scale](https://www.arbelatech.com/insights/white-papers/build-modern-apps-with-big-data-at-a-global-scale) - pdf
 
 ### Docs
