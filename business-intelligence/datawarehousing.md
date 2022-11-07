@@ -1,9 +1,11 @@
 # Data Warehousing
 
+> A data warehouse is a central repository of information that can be analyzed to make more informed decisions. Data flows into a data warehouse from transactional systems, relational databases, and other sources, typically on a regular cadence.
+
+### Processes
+
 - Data Integration
   - Is the practice of consolidating data from disparate sources into a single dataset with the ultimate goal of providing users with consistent access and delivery of data across the spectrum of subjects and structure types, and to meet the information needs of all applications and business processes
-- Data Analysis
-  - Is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information 
 - Data Cleansing
   - Is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data
 - Data Reduction
@@ -12,6 +14,8 @@
   - Transforms the data into a suitable format that makes data mining efficient. Data transformation include method such as smoothing the data aggregation, attribute construction. The most effective way of transforming the data is normalizing and discretization and concept hierarchy 
 - Data Discretization
   - Refers to a method of converting a huge number of data values into smaller ones so that the evaluation and management of data become easy
+- Data Analysis
+  - Is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information 
 - Data Mining 
   - Is the process of finding anomalies, patterns and correlations within large data sets to predict outcomes. 
   - Uses the scientific and mathematical models and methods to identify patterns or trends in the data that is being mined
