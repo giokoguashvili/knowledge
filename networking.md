@@ -152,6 +152,11 @@ Ports:
     HTTPS/SSL           - 443
     UDP                 - 1900
     RDP                 - 3389
+    SSDP                - 1900
+    
+Other
+    SSDP - Simple Service Discovery Protocol
+    
 ```
 
 ### [Routing Protocols](https://en.wikipedia.org/wiki/Routing_protocol)
