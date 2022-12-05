@@ -160,12 +160,13 @@ Other
 ```
 
 ### [Routing Protocols](https://en.wikipedia.org/wiki/Routing_protocol)
-    IGP - Interior Gateway Protocol
-        RIP
-        OSPF
-        IS-IS
-        IGRP
-        EIGRP
-    EGP - Exterior Gateway Protocol
-        BGP
+- [IGP - Interior Gateway Protocol](https://en.wikipedia.org/wiki/Interior_gateway_protocol)
+used for exchanging routing table information between gateways (commonly routers) within an autonomous system (for example, a system of corporate local area networks). This routing information can then be used to route network-layer protocols like IP
+    - RIP
+    - OSPF - Open Shortest Path First
+    - IS-IS
+    - IGRP - Internet Group Management Protocol
+    - EIGRP - Enhanced Interior Gateway Routing Protocol is an enhanced distance vector protocol that uses Diffusing Update Algorithm (DUAL) for shortest path calculation
+- [EGP - Exterior Gateway Protocol](https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol) - a routing protocol used to connect different autonomous systems on the Internet
+    - BGP - Border Gateway Protocol
 ![Routing protocol classification computer networks](https://upload.wikimedia.org/wikipedia/commons/4/47/Computer_Network_Routing_Protocol_Classification_-en.png)
