@@ -62,6 +62,7 @@ WAN                     - Wide Area Network
 LAN                     - Local Area Network
 VLAN                    - Virtual LAN
 VPN                     - Virtual Private Network
+DMVPN                   - Dynamic Multipoint VPN
 SSL VPN                 - Secure Sockets Layer Virtual Private Network
 IPsec                   - IP Security
 GRE                     - Generic Routing Encapsulation
