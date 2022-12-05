@@ -102,14 +102,17 @@ Network Layer
     STP                 - Spanning Tree Protocol 
                           The Spanning Tree Protocol (STP) is a network protocol that builds a loop-free logical topology for Ethernet networks.
                           The basic function of STP is to prevent bridge loops and the broadcast radiation that results from them.
-                          
+
+    ICMP                - Internet Control Message Protocol (ping)
+
+Routing Protocols                          
+
     RIP                 - Routing Information Protocol
-                          The Routing Information Protocol (RIP) uses a single routing metric to measure the distance between the source and the destination network.
-                          Each hop in a path from the source to the destination is assigned a hop-count value, which is typically 1.
-                          
+                        The Routing Information Protocol (RIP) uses a single routing metric to measure the distance between the source and the destination network.
+                        Each hop in a path from the source to the destination is assigned a hop-count value, which is typically 1.
     OSPF                - Open Shortest Path First
     BGP                 - Border Gateway Protocol
-    ICMP                - Internet Control Message Protocol (ping)
+    
     IGMP                - Internet Group Management Protocol
     EIGRP               - Enhanced Interior Gateway Routing Protocol
 
@@ -156,7 +159,6 @@ Ports:
     
 Other
     SSDP - Simple Service Discovery Protocol
-    
 ```
 
 ### [Routing Protocols](https://en.wikipedia.org/wiki/Routing_protocol)
