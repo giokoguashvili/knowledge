@@ -162,11 +162,21 @@ Other
 ### [Routing Protocols](https://en.wikipedia.org/wiki/Routing_protocol)
 - [IGP - Interior Gateway Protocol](https://en.wikipedia.org/wiki/Interior_gateway_protocol)
 used for exchanging routing table information between gateways (commonly routers) within an autonomous system (for example, a system of corporate local area networks). This routing information can then be used to route network-layer protocols like IP
-    - RIP
-    - OSPF - Open Shortest Path First
-    - IS-IS
-    - IGRP - Internet Group Management Protocol
-    - EIGRP - Enhanced Interior Gateway Routing Protocol is an enhanced distance vector protocol that uses Diffusing Update Algorithm (DUAL) for shortest path calculation
+    - [**RIP** - Routing Information Protocol](https://en.wikipedia.org/wiki/Routing_Information_Protocol) <br/>
+    s one of the oldest distance-vector routing protocols which employs the hop count as a routing metric. RIP prevents routing loops by implementing a limit on the number of hops allowed in a path from source to destination
+
+    - [**OSPF** - Open Shortest Path First](https://en.wikipedia.org/wiki/Open_Shortest_Path_First) <br/>
+    is a routing protocol for Internet Protocol (IP) networks. It uses a link state routing (LSR) algorithm and falls into the group of interior gateway protocols (IGPs), operating within a single autonomous system (AS)
+
+    - **IS-IS**
+    
+    - [**IGRP** - Internet Group Management Protocol](https://en.wikipedia.org/wiki/Interior_Gateway_Routing_Protocol) <br/>
+    was created in part to overcome the limitations of RIP (maximum hop count of only 15, and a single routing metric) when used within large networks
+
+    - [**EIGRP** - Enhanced Interior Gateway Routing Protocol](https://en.wikipedia.org/wiki/Enhanced_Interior_Gateway_Routing_Protocol) <br/>
+    is an enhanced distance vector protocol that uses Diffusing Update Algorithm (DUAL) for shortest path calculation
 - [EGP - Exterior Gateway Protocol](https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol) - a routing protocol used to connect different autonomous systems on the Internet
-    - BGP - Border Gateway Protocol
+    - [**BGP** - Border Gateway Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) <br/>
+    is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator
+
 ![Routing protocol classification computer networks](https://upload.wikimedia.org/wikipedia/commons/4/47/Computer_Network_Routing_Protocol_Classification_-en.png)
