@@ -69,7 +69,11 @@ GRE                     - Generic Routing Encapsulation
 
 PAT                     - Port Address Translation
 NAT                     - Network Address Translation
-
+DNAT                    - Destination Network Address Translation (External (untrusted) to Internal (trusted))
+                          translates destination IP address generally when connecting from public IP address to private IP address
+SNAT                    - Secure Network Address Translation (Internal (trusted) to External (untrusted))
+                          translates source IP address generally when connecting 
+                            private IP address to public IP address
 SSH                     - Secure Shell
 Telnet                  - an application protocol used on the WAN or LAN to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection
 
@@ -162,6 +166,22 @@ Other
     SSDP - Simple Service Discovery Protocol
 ```
 
+### Protocols
+
+- WebRTC
+- ICE/STUN/TURN
+- WebSocket
+- WebTransport
+- HTTP3
+- QUIC
+- Homa
+- gRPC
+- DRPC
+- Protobuf
+- Server-Sent Event
+- TCP
+- UDP
+
 ### [Routing Protocols](https://en.wikipedia.org/wiki/Routing_protocol)
 - [IGP - Interior Gateway Protocol](https://en.wikipedia.org/wiki/Interior_gateway_protocol)
 used for exchanging routing table information between gateways (commonly routers) within an autonomous system (for example, a system of corporate local area networks). This routing information can then be used to route network-layer protocols like IP
@@ -183,3 +203,13 @@ used for exchanging routing table information between gateways (commonly routers
     is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator
 
 ![Routing protocol classification computer networks](https://upload.wikimedia.org/wikipedia/commons/4/47/Computer_Network_Routing_Protocol_Classification_-en.png)
+
+
+### Network Techniques
+
+- [Flow Control](https://en.wikipedia.org/wiki/Flow_control_(data)) <br/>
+    is the process of managing the rate of data transmission between two nodes to prevent a fast sender from overwhelming a slow receiver
+
+
+- [Congestion Control & Avoidance](https://en.wikipedia.org/wiki/Network_congestion) <br/>
+    Networks use congestion control and congestion avoidance techniques to try to avoid collapse
