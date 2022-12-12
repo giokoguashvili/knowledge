@@ -76,6 +76,7 @@ SNAT                    - Secure Network Address Translation (Internal (trusted)
                             private IP address to public IP address
 SSH                     - Secure Shell
 Telnet                  - an application protocol used on the WAN or LAN to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection
+ISP                     - Internet Service Provider
 
 Firewall        
 Socket      
@@ -181,6 +182,7 @@ Other
 - Server-Sent Event
 - TCP
 - UDP
+- Direct Sockets API (Raw Socket API)
 
 ### [Routing Protocols](https://en.wikipedia.org/wiki/Routing_protocol)
 - [IGP - Interior Gateway Protocol](https://en.wikipedia.org/wiki/Interior_gateway_protocol)
@@ -213,3 +215,13 @@ used for exchanging routing table information between gateways (commonly routers
 
 - [Congestion Control & Avoidance](https://en.wikipedia.org/wiki/Network_congestion) <br/>
     Networks use congestion control and congestion avoidance techniques to try to avoid collapse
+
+# [Network Types](https://en.wikipedia.org/wiki/Computer_network)
+
+![scope.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Data_Networks_classification_by_spatial_scope.svg/768px-Data_Networks_classification_by_spatial_scope.svg.png)
+- PAN - Personal Area Network
+- LAN - Local Area Network
+- MAN - Metropolitan Area Network
+- WAN - Wide Area Network
+
+### Network Architecture
