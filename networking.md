@@ -207,7 +207,7 @@ used for exchanging routing table information between gateways (commonly routers
 ![Routing protocol classification computer networks](https://upload.wikimedia.org/wikipedia/commons/4/47/Computer_Network_Routing_Protocol_Classification_-en.png)
 
 
-### Network Techniques
+## TCP
 
 - [Flow Control](https://en.wikipedia.org/wiki/Flow_control_(data)) <br/>
     is the process of managing the rate of data transmission between two nodes to prevent a fast sender from overwhelming a slow receiver
@@ -215,6 +215,29 @@ used for exchanging routing table information between gateways (commonly routers
 
 - [Congestion Control & Avoidance](https://en.wikipedia.org/wiki/Network_congestion) <br/>
     Networks use congestion control and congestion avoidance techniques to try to avoid collapse
+- [MTU - Maximum Transmission Unit](https://en.wikipedia.org/wiki/Maximum_transmission_unit) <br/>
+    is a term used in networking and operating systems. It defines the largest size of the packet that can be transmitted as a single entity in a network connection. The size of the MTU dictates the amount of data that can be transmitted in bytes over a network. 
+- [MSS - Maximum Segment Size](https://en.wikipedia.org/wiki/Maximum_segment_size) <br/>
+    >MSS = MTU - IP Headers - TCP Headers = 1500 - 20 - 20 = 1460
+- [PMTUD - Path MTU Discovery](https://en.wikipedia.org/wiki/Path_MTU_Discovery) <br/>
+    is a standardized technique in computer networking for determining the maximum transmission unit (MTU) size on the  network path between two Internet Protocol (IP) hosts, usually with the goal of avoiding IP fragmentation
+- [Nagle's Algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm) <br/>
+    is a means of improving the efficiency of TCP/IP networks by reducing the number of packets that need to be sent over the network
+    - CURL disables this back in 2016 by default beacause TLS handshake was slowed down
+- [Delayed Acknowledgment](https://en.wikipedia.org/wiki/TCP_delayed_acknowledgment)
+- [HOL blocking](https://en.wikipedia.org/wiki/Head-of-line_blocking#:~:text=Head%2Dof%2Dline%20blocking%20(,multiple%20requests%20in%20HTTP%20pipelining.) - Head-of-line blocking
+
+```
+DUP ACK - Duplicate Acknowledgements
+RTT - Round-Trip Time 
+Congestion Avoidance - TCP congestion control
+   TailDrop
+   RED/WRED
+   Cubic
+   BBR
+FEC - Forward Error Correction
+UDP Amplification Attack (DNS)
+```
 
 # [Network Types](https://en.wikipedia.org/wiki/Computer_network)
 
@@ -225,3 +248,5 @@ used for exchanging routing table information between gateways (commonly routers
 - WAN - Wide Area Network
 
 ### Network Architecture
+
+
