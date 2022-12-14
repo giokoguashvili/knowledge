@@ -95,7 +95,7 @@ Data Link Layer
     ARP (IPv4)          - Address Resolution Protocol 
                           The Address Resolution Protocol is a communication protocol used for discovering the link layer address, such as a MAC address, 
                           associated with a given internet layer address, typically an IPv4 address
-                          
+    Gratuitous ARP      - A Gratuitous ARP is an ARP Response that was not  prompted by an ARP Request. The Gratuitous ARP is sent as a broadcast, as a way for a node to announce or update its IP to MAC mapping to the entire network            
     NDP (IPv6)          - Neighbor Discovery Protocol
 
 Network Layer   
@@ -211,8 +211,6 @@ used for exchanging routing table information between gateways (commonly routers
 
 - [Flow Control](https://en.wikipedia.org/wiki/Flow_control_(data)) <br/>
     is the process of managing the rate of data transmission between two nodes to prevent a fast sender from overwhelming a slow receiver
-
-
 - [Congestion Control & Avoidance](https://en.wikipedia.org/wiki/Network_congestion) <br/>
     Networks use congestion control and congestion avoidance techniques to try to avoid collapse
 - [MTU - Maximum Transmission Unit](https://en.wikipedia.org/wiki/Maximum_transmission_unit) <br/>
@@ -225,7 +223,10 @@ used for exchanging routing table information between gateways (commonly routers
     is a means of improving the efficiency of TCP/IP networks by reducing the number of packets that need to be sent over the network
     - CURL disables this back in 2016 by default beacause TLS handshake was slowed down
 - [Delayed Acknowledgment](https://en.wikipedia.org/wiki/TCP_delayed_acknowledgment)
-- [HOL blocking](https://en.wikipedia.org/wiki/Head-of-line_blocking#:~:text=Head%2Dof%2Dline%20blocking%20(,multiple%20requests%20in%20HTTP%20pipelining.) - Head-of-line blocking
+- [HOL blocking](https://en.wikipedia.org/wiki/Head-of-line_blocking) - Head-of-line blocking
+
+### UDP
+- [UDP hole punching](https://en.wikipedia.org/wiki/UDP_hole_punching)
 
 ```
 DUP ACK - Duplicate Acknowledgements
@@ -249,4 +250,22 @@ UDP Amplification Attack (DNS)
 
 ### Network Architecture
 
+### Linux Networking
+- [Linux Networking Commands with Examples](https://mindmajix.com/linux-networking-commands-best-examples)
 
+```
+netstat/ss 
+ifconfig/ip       
+traceroute/tracepath
+nslookup/dig
+route
+host
+hostname
+arp
+iwconfig
+tcpdump
+ping
+mtr (ping + traceroute)
+curl/wget
+whois
+```
