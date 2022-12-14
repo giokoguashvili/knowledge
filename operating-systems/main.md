@@ -1,3 +1,23 @@
+### Linux Networking
+- [Linux Networking Commands with Examples](https://mindmajix.com/linux-networking-commands-best-examples)
+
+```
+netstat/ss 
+ifconfig/ip       
+traceroute/tracepath
+nslookup/dig
+route
+host
+hostname
+arp
+iwconfig
+tcpdump
+ping
+mtr (ping + traceroute)
+curl/wget
+whois
+```
+
 ```
 uname -a
 w
@@ -53,3 +73,5 @@ sudo usermod -aG sudo <username>
 
 file <filePath>
 ```
+
+
