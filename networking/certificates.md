@@ -1,10 +1,9 @@
-# PKI
+# PKI - Public Key Infrastructure
+
+![Public Key Infrastructure](https://user-images.githubusercontent.com/8178412/208251424-1fe6e612-6422-4824-8d16-ed1051c4e6ea.png)
 
 - **SSL** - Secure Socket Layer
 - **TLS** - Transport Layer Security
-- Cryptography
-    - Asymmetric 
-    - Symmetric 
 - X.509 - s a standard that defines the format of the digital certificate
 - ASN.1 - Abstract Syntax Notation One - formal language
 - Certificates Types 
@@ -44,3 +43,6 @@
 - [tuansoibk/cryptography-file-formats.md](https://gist.github.com/tuansoibk/0b1f279be5c1b782d95f4e15af1442cb)
 - [What is a Pem file and how does it differ from other OpenSSL Generated Key File Formats?](https://serverfault.com/a/9717/435541)
 - [Certificate CA Validation](https://gist.github.com/genaromadrid/9075d315e949fb4b3760db5c36c9a8ca)
+
+### Videos
+- [PKI Bootcamp by Paul Turner - Youtube]()

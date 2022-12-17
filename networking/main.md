@@ -135,6 +135,8 @@ Session Layer
 Application Layer   
     HTTP                - Hypertext Transfer Protocol
     FTP                 - File Transfer Protocol 
+    FTPS                - FTP-SSL
+    SFTP                - SSH File Transfer Protocol / Secure File Transfer Protocol (FTP over SSH)
     WSS                 - Web Sockets 
     SMTP                - Simple Mail Transfer Protocol 
     TELNET              - TCP / IP Terminal Emulation Protocol
