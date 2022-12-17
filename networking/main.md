@@ -250,4 +250,7 @@ UDP Amplification Attack (DNS)
 
 ### Network Architecture
 
+- Reverse Proxy
+- Forward Proxy
+- Load Balancer
 
