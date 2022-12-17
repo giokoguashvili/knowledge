@@ -75,3 +75,15 @@ file <filePath>
 ```
 
 
+- **Terminal** <br/>
+A terminal is a text input and output environment
+- **Console** <br/>
+A console is a physical terminal 
+- **Shell** <br/>
+is an interface between the user and the operating system
+- **sh** <br/>
+implements the shell interface, that actually processes commands and outputs results
+- **bash** <br/>
+is a superset of sh
+- **Command-line** <br/>
+A command-line interface (CLI) is a computer program that processes commands in the form of lines of text. The user typically interacts with the shell via a command-line interface (CLI).
