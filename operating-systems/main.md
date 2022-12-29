@@ -1,3 +1,19 @@
+# Operating Systems
+
+- POSIX
+- SUS
+
+- Processes
+- Users
+- Files
+- I/O Devices
+- Network
+
+### Files & File System
+### Processes
+
+
+
 # Linux Networking
 - [Linux Networking Commands with Examples](https://mindmajix.com/linux-networking-commands-best-examples)
 

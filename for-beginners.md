@@ -97,7 +97,7 @@
                     - .js
                     - .sql
                 - Data Structures
-                    - .cvs
+                    - .csv
                     - .json
                     - .xml
                     - .yaml
@@ -112,20 +112,22 @@
         - RAM
         - HDD/SSD
         - Ethernet
-    - Notebook
-        - HP
-        - Dell
-    - Desktop
-    - Mobile (Smartphone)
-        - iPhone
-        - Google Pixel
-    - Gaming
-        - XBox
-        - Playstation
+    - Platforms
+        - Notebook
+            - HP
+            - Dell
+        - Desktop
+        - Mobile (Smartphone)
+            - iPhone
+            - Google Pixel
+        - Gaming
+            - XBox
+            - Playstation
 - Applications/Software Types
     - Web App (Browser)
     - Mobile App (Mobile)
     - Desktop App (PC)
+    - Services
 - ERP - Enterprise Resource Planning
     - Modules
     - PDM - Product Development Management
