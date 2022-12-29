@@ -1,8 +1,14 @@
 # [Computer Organization & Architecture](https://en.wikipedia.org/wiki/Computer_architecture)
 
+- [Arithmometer](https://en.wikipedia.org/wiki/Arithmometer) - by Louis Payen around 1887 <br/>
+ was the first digital mechanical calculator strong enough and reliable enough to be used daily in an office environment
+- [ENIAC](https://en.wikipedia.org/wiki/ENIAC) - founded in 1945 <br/>
+was the first programmable, electronic, general-purpose digital computer
+
 ![Screenshot 2022-12-29 161146](https://user-images.githubusercontent.com/8178412/209950291-45616197-40c8-4371-8160-89b8a45255d0.png)
 
-
+- [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+- [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture#:~:text=The%20Harvard%20architecture%20is%20a,the%20same%20memory%20and%20pathways.)
 
 # [ISA - Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 ![Screenshot 2022-12-29 155012](https://user-images.githubusercontent.com/8178412/209951851-7971d2f6-4ff4-48a6-afa1-c5eb53ab9c0a.png)
@@ -48,12 +54,8 @@ A microarchitecture is a hardware implementation of an ISA (instruction set arch
 # [CPU - Central Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 ![Screenshot 2022-12-29 173955](https://user-images.githubusercontent.com/8178412/209962040-d0477f62-f7c6-47ff-9c0c-d811f2b043bc.png)
 
-- [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
-- [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture#:~:text=The%20Harvard%20architecture%20is%20a,the%20same%20memory%20and%20pathways.)
-### [IC - Integrated Circuit](https://en.wikipedia.org/wiki/Integrated_circuit) 
-> All CPUs are ICs. Not all ICs are CPUs
-- [ASIC - Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)
-- [FPGA - Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+
+
 - CPU
     - [Single cycle processor](https://en.wikipedia.org/wiki/Single_cycle_processor)
     - [Multi-cycle processor](https://en.wikipedia.org/wiki/Multi-cycle_processor)
@@ -92,13 +94,16 @@ A microarchitecture is a hardware implementation of an ISA (instruction set arch
     - [ROM - Read-Only Memory](https://en.wikipedia.org/wiki/Read-only_memory)
     - [SSD - Solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive)
     - [HDD - Hard Drive Disk](https://en.wikipedia.org/wiki/Hard_disk_drive)
-## Memory Hierarchy
+
+## [Memory Hierarchy](https://en.wikipedia.org/wiki/Memory_hierarchy)
 ![Screenshot 2022-12-29 210901](https://user-images.githubusercontent.com/8178412/209986366-cd9ab57a-dc72-4e49-9447-453d2d9b3d6e.png)
 - Registers
 - Cache
 - RAM
 - SSD/HDD/USB Flash
 
+## [Memory Latency](https://en.wikipedia.org/wiki/Memory_latency#:~:text=Memory%20latency%20is%20the%20time,with%20the%20external%20memory%20cells.)
+![MemHierLimits3](https://user-images.githubusercontent.com/8178412/209988610-8b7e4062-d1ba-49bc-911b-e4aa80b7dc21.png)
 
 # [HDL - Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
 That can model the behavior and structure of digital systems at multiple levels of abstraction, ranging from the system level down to that of logic gates, for design entry, documentation, and verification purposes
@@ -113,6 +118,13 @@ That can model the behavior and structure of digital systems at multiple levels 
 | Low Verbosity             | High Verbosity        |
 | Partially Deterministic   | Very Deterministic    |
 | More "C" like             | Non "C" like          |
+
+# [Transistors](https://en.wikipedia.org/wiki/Transistor) and [Integrated Circuits](https://en.wikipedia.org/wiki/Integrated_circuit)
+- [IC - Integrated Circuit](https://en.wikipedia.org/wiki/Integrated_circuit) <br/>
+all CPUs are ICs. Not all ICs are CPUs
+- [ASIC - Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)
+- [FPGA - Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+- [Transistor Gates](http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html) - hyperphysics.phy-astr.gsu.edu
 
 # Books
 - [Digital Design and Computer Architecture - by by David Harris, Sarah Harris](https://g.co/kgs/ptBpJq)
