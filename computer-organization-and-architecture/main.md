@@ -14,13 +14,15 @@ Is an abstract model of a computer. A device that executes instructions describe
     - [x86-64](https://en.wikipedia.org/wiki/X86-64) (Intel/AMD)
 - [RISC - Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)
     - [ARM - Advanced RISC Machines](https://en.wikipedia.org/wiki/ARM_architecture_family) (Cortex/Snapdragon)
+    - [MIPS - Microprocessor without Interlocked Pipelined Stages](https://en.wikipedia.org/wiki/MIPS_architecture) (R4700 - Orion)
 - [VLIW - Very Long Instruction Word](https://en.wikipedia.org/wiki/Very_long_instruction_word)
-    - [e2k](https://en.wikipedia.org/wiki/Elbrus_(computer))
+    - [e2k](https://en.wikipedia.org/wiki/Elbrus_(computer)) (Elbrus)
 
 List of
 - [List of Intel CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
 - [List of AMD processors](https://en.wikipedia.org/wiki/List_of_AMD_processors)
 - [List of ARM processors](https://en.wikipedia.org/wiki/List_of_ARM_processors)
+- [List of MIPS architecture processors](https://en.wikipedia.org/wiki/List_of_MIPS_architecture_processors)
     
 
 # [Micro-Architecture](https://en.wikipedia.org/wiki/Microarchitecture)
@@ -79,12 +81,23 @@ A microarchitecture is a hardware implementation of an ISA (instruction set arch
 - execute
 - store (write-back)
 
-# [Computer Memory](https://en.wikipedia.org/wiki/Computer_memory)
-- Computer Memory Hierarchy
-    - Registers
-    - Cache
-    - RAM
-    - Hard Disk
+# [Computer Memory and Data Storage types](https://en.wikipedia.org/wiki/Computer_memory)
+## Memory Types
+![Types of Computer Memory (www tutorialsmate com)](https://user-images.githubusercontent.com/8178412/209986220-2f59a8b5-9756-4b90-b43a-9fda749e4aa2.png)
+- Volatile
+    - [SRAM - Static random-access memory](https://en.wikipedia.org/wiki/Static_random-access_memory) (Cache/Registers)
+    - [DRAM/RAM - Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) 
+- Non-volatile
+    - [NVRAM Non-volatile random-access memory](https://en.wikipedia.org/wiki/Non-volatile_random-access_memory)
+    - [ROM - Read-Only Memory](https://en.wikipedia.org/wiki/Read-only_memory)
+    - [SSD - Solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive)
+    - [HDD - Hard Drive Disk](https://en.wikipedia.org/wiki/Hard_disk_drive)
+## Memory Hierarchy
+![Screenshot 2022-12-29 210901](https://user-images.githubusercontent.com/8178412/209986366-cd9ab57a-dc72-4e49-9447-453d2d9b3d6e.png)
+- Registers
+- Cache
+- RAM
+- SSD/HDD/USB Flash
 
 
 # [HDL - Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
@@ -111,3 +124,4 @@ That can model the behavior and structure of digital systems at multiple levels 
 ![Screenshot 2022-12-29 161345](https://user-images.githubusercontent.com/8178412/209950294-c62195c4-201a-43cf-acfc-b9428f9bcd33.png)
 ![Screenshot 2022-12-29 161213](https://user-images.githubusercontent.com/8178412/209950293-2fbf3755-abfe-4292-a68c-c4a0a5056736.png)
 ![Screenshot 2022-12-29 180527](https://user-images.githubusercontent.com/8178412/209966681-39087926-f490-4c6c-9857-d9f17f1db1df.png)
+
