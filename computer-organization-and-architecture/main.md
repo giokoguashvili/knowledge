@@ -70,6 +70,19 @@ A microarchitecture is a hardware implementation of an ISA (instruction set arch
 - Instruction Decoder
 
 ## [ALU - Arithmetic Logic Unit](https://en.wikipedia.org/wiki/Arithmetic_logic_unit)
+![Screenshot 2022-12-30 153401](https://user-images.githubusercontent.com/8178412/210066237-fe038fa3-de2e-43a1-9b59-d74622dfe318.png)
+
+- Multiplexers
+- Demultiplexers
+- Encoders 
+- Decoders
+
+Resources:
+- [Combinational logic](https://en.wikipedia.org/wiki/Combinational_logic) - wiki
+- [Transistor Gates](http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html) - hyperphysics.phy-astr.gsu.edu
+- [Computer Logical Organization Tutorial](https://www.tutorialspoint.com/computer_logical_organization/index.htm) - tutorialspoint.com
+- [Digital Electronics Tutorial](https://www.javatpoint.com/digital-electronics) - javatpoint.com
+
 
 ## Memory Unit
 
@@ -82,6 +95,10 @@ A microarchitecture is a hardware implementation of an ISA (instruction set arch
 - decode
 - execute
 - store (write-back)
+
+## [Clock generator](https://en.wikipedia.org/wiki/Clock_generator)
+is an electronic oscillator that produces a clock signal for use in synchronizing a circuit's operation
+![Screenshot 2022-12-29 180527](https://user-images.githubusercontent.com/8178412/209966681-39087926-f490-4c6c-9857-d9f17f1db1df.png)
 
 # [Computer Memory and Data Storage types](https://en.wikipedia.org/wiki/Computer_memory)
 ## Memory Types
@@ -124,7 +141,7 @@ That can model the behavior and structure of digital systems at multiple levels 
 all CPUs are ICs. Not all ICs are CPUs
 - [ASIC - Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)
 - [FPGA - Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
-- [Transistor Gates](http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html) - hyperphysics.phy-astr.gsu.edu
+
 
 # Books
 - [Digital Design and Computer Architecture - by by David Harris, Sarah Harris](https://g.co/kgs/ptBpJq)
@@ -135,5 +152,4 @@ all CPUs are ICs. Not all ICs are CPUs
 ![Screenshot 2022-12-29 155058](https://user-images.githubusercontent.com/8178412/209950287-bbf85ded-ce69-4d45-bc1a-fab3bdaa6628.png)
 ![Screenshot 2022-12-29 161345](https://user-images.githubusercontent.com/8178412/209950294-c62195c4-201a-43cf-acfc-b9428f9bcd33.png)
 ![Screenshot 2022-12-29 161213](https://user-images.githubusercontent.com/8178412/209950293-2fbf3755-abfe-4292-a68c-c4a0a5056736.png)
-![Screenshot 2022-12-29 180527](https://user-images.githubusercontent.com/8178412/209966681-39087926-f490-4c6c-9857-d9f17f1db1df.png)
 
