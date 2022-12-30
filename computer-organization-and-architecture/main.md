@@ -104,7 +104,8 @@ is an electronic oscillator that produces a clock signal for use in synchronizin
 ## Memory Types
 ![Types of Computer Memory (www tutorialsmate com)](https://user-images.githubusercontent.com/8178412/209986220-2f59a8b5-9756-4b90-b43a-9fda749e4aa2.png)
 - Volatile
-    - [SRAM - Static random-access memory](https://en.wikipedia.org/wiki/Static_random-access_memory) (Cache/Registers)
+    - [Flip-flop / Latch ](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) (Cache, Register)
+    - [SRAM - Static random-access memory](https://en.wikipedia.org/wiki/Static_random-access_memory) (Cache, Registers)
     - [DRAM/RAM - Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) 
 - Non-volatile
     - [NVRAM Non-volatile random-access memory](https://en.wikipedia.org/wiki/Non-volatile_random-access_memory)
@@ -148,7 +149,10 @@ all CPUs are ICs. Not all ICs are CPUs
     - [RUS](https://microelectronica.pro/wp-content/uploads/books/digital-design-and-computer-architecture-russian-translation.pdf)
     - [ENG](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf)
 
-
+# Courses
+- [Архитектура ЭВМ Industrial - Software Engineering Online](https://www.youtube.com/playlist?list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH) - youtube.com
+- [Digital Design & Computer Architecture - ETH Zürich (Spring 2020) Onur Mutlu Lectures](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2) - youtube.com
+- [Livestream - Digital Design and Computer Architecture - ETH Zürich (Spring 2021) Onur Mutlu Lectures](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_uej3aY39YB5pfW4SJ7LlN) - youtube.com
 ![Screenshot 2022-12-29 155058](https://user-images.githubusercontent.com/8178412/209950287-bbf85ded-ce69-4d45-bc1a-fab3bdaa6628.png)
 ![Screenshot 2022-12-29 161345](https://user-images.githubusercontent.com/8178412/209950294-c62195c4-201a-43cf-acfc-b9428f9bcd33.png)
 ![Screenshot 2022-12-29 161213](https://user-images.githubusercontent.com/8178412/209950293-2fbf3755-abfe-4292-a68c-c4a0a5056736.png)

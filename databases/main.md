@@ -112,3 +112,7 @@ Distributed transactions
 - Reliability - The ability to work properly(even some parts/components failed).
 - Durability - The ability of not losing data.
 - Availability - The ability of less downtime, this rely on type of downtimes.
+
+# Courses
+- [Базы данных (К. Осипов) Alexey Frolagin](https://www.youtube.com/playlist?list=PLwEhaEvRJdetshn9PThPi4vA3RDJMUZZy) - youtube.com
+- [Distributed Systems lecture series Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) - youtube.com

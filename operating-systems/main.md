@@ -157,3 +157,8 @@ lsof
 # Gloassary
 
 - **sda** - scsi disk
+
+# Books
+
+# Courses
+- [Архитектура операционной системы (на примере Linux), осень 2017 Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpT4SMpYl6uVYi13k0k9CBiq) - youtube.com
