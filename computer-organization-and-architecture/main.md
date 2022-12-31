@@ -15,14 +15,17 @@ was the first programmable, electronic, general-purpose digital computer
 
 Is an abstract model of a computer. A device that executes instructions described by that ISA, such as a central processing unit (CPU), is called an implementation
 
-[Comparison of Instruction Set Architectures](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+[Comparison of Instruction Set Architectures](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures) (Platforms)
 - [CISC - Complex Instruction Set Computer](https://en.wikipedia.org/wiki/Complex_instruction_set_computer)
     - [x86-64](https://en.wikipedia.org/wiki/X86-64) (Intel/AMD)
 - [RISC - Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)
     - [ARM - Advanced RISC Machines](https://en.wikipedia.org/wiki/ARM_architecture_family) (Cortex/Snapdragon)
     - [MIPS - Microprocessor without Interlocked Pipelined Stages](https://en.wikipedia.org/wiki/MIPS_architecture) (R4700 - Orion)
+    - [SPARC - Scalable Processor Architecture](https://en.wikipedia.org/wiki/SPARC)
+    - [PPC - PowerPC - Performance Optimization With Enhanced RISC](https://en.wikipedia.org/wiki/PowerPC)
 - [VLIW - Very Long Instruction Word](https://en.wikipedia.org/wiki/Very_long_instruction_word)
     - [e2k](https://en.wikipedia.org/wiki/Elbrus_(computer)) (Elbrus)
+- Itanium
 
 List of
 - [List of Intel CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
