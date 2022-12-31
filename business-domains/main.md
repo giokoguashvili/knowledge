@@ -1,0 +1,3 @@
+# [Business domain](https://en.wikipedia.org/wiki/Business_domain)
+
+In object-oriented programming, a business domain is the set of classes that represent objects in the business model being implemented. The business domain is distinguishable from the business model in that the business model is an understanding and explanation of information and behaviors in the problem domain, while the business domain is an implementation of that model in a specific programming language
