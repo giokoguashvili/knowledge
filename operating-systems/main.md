@@ -1,27 +1,48 @@
 # Operating Systems
 
-- POSIX
-- SUS
-
 - Processes
 - Users
 - Files
 - I/O Devices
 - Network
+---
+- Kernel
+    - [Monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel)
+    - [Microkernel](https://en.wikipedia.org/wiki/Microkernel#Nanokernel)
+    - [Exokernel](https://en.wikipedia.org/wiki/Exokernel)
+    - [Hybrid kernel](https://en.wikipedia.org/wiki/Hybrid_kernel)
+    - [Protection ring](https://en.wikipedia.org/wiki/Protection_ring)
 
+- POSIX
+- SUS
 
-- [Monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel)
-- [Microkernel](https://en.wikipedia.org/wiki/Microkernel#Nanokernel)
-- [Exokernel](https://en.wikipedia.org/wiki/Exokernel)
-- [Hybrid kernel](https://en.wikipedia.org/wiki/Hybrid_kernel)
-- [CPU modes](https://en.wikipedia.org/wiki/CPU_modes)
-- [Protection ring](https://en.wikipedia.org/wiki/Protection_ring)
-
-- [GC - Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
-- [DGC - Distributed Garbage Collection](https://en.wikipedia.org/wiki/Distributed_garbage_collection) <br/>
 
 
 # Files & File System
+
+
+# Memory
+- [Virtual memory](https://en.wikipedia.org/wiki/Virtual_memory)
+- [Shared Memory Models](https://en.wikipedia.org/wiki/Shared_memory)
+    - [UMA - Uniform Memory Access](https://en.wikipedia.org/wiki/Uniform_memory_access#:~:text=Uniform%20memory%20access%20(UMA)%20is,share%20the%20physical%20memory%20uniformly.)
+    - [NUMA - Non-Uniform Memory Access](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
+    - [COMA - Cache-Only Memory Architecture](https://en.wikipedia.org/wiki/Cache-only_memory_architecture)
+    - [HSA - Heterogeneous System Architecture](https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture)
+
+## Garbage Collection 
+
+- [GC - Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
+- [DGC - Distributed Garbage Collection](https://en.wikipedia.org/wiki/Distributed_garbage_collection) <br/>
+- Strategies
+    - Tracing
+    - Reference counting
+    - Cycles
+    - Space overhead (reference count)
+    - Speed overhead (increment/decrement)
+    - Requires atomicity
+    - Not real-time
+    - Escape analysis
+
 # Processes
 - Independent Process <br/> 
 the execution of one process does not affect the execution of other processes
@@ -29,7 +50,7 @@ the execution of one process does not affect the execution of other processes
 a process that can affect or be affected by other processes executing in the system
 - [Critical Section](https://en.wikipedia.org/wiki/Critical_section)
 ----
-## Interprocess Communications
+### Interprocess Communications
 - [ABI - Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface)
 - [IPC - Inter-Process communication](https://en.wikipedia.org/wiki/Inter-process_communication)
     - File
@@ -46,7 +67,7 @@ a process that can affect or be affected by other processes executing in the sys
 
 
 
-## [Process Synchronization](https://en.wikipedia.org/wiki/Synchronization_(computer_science)#:~:text=Process%20synchronization%20refers%20to%20the,a%20certain%20sequence%20of%20action.)
+### [Process Synchronization](https://en.wikipedia.org/wiki/Synchronization_(computer_science)#:~:text=Process%20synchronization%20refers%20to%20the,a%20certain%20sequence%20of%20action.)
 
 Classic problems of synchronization
 The following are some classic problems of synchronization:
