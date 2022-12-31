@@ -16,16 +16,72 @@
 - [Hybrid kernel](https://en.wikipedia.org/wiki/Hybrid_kernel)
 - [CPU modes](https://en.wikipedia.org/wiki/CPU_modes)
 - [Protection ring](https://en.wikipedia.org/wiki/Protection_ring)
-- [IPC - Inter-Process communication](https://en.wikipedia.org/wiki/Inter-process_communication)
+
+- [GC - Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 - [DGC - Distributed Garbage Collection](https://en.wikipedia.org/wiki/Distributed_garbage_collection) <br/>
 
 
-### Files & File System
-### Processes
+# Files & File System
+# Processes
+- Independent Process <br/> 
+the execution of one process does not affect the execution of other processes
+- Cooperative Process <br/> 
+a process that can affect or be affected by other processes executing in the system
+- [Critical Section](https://en.wikipedia.org/wiki/Critical_section)
+----
+## Interprocess Communications
+- [ABI - Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface)
+- [IPC - Inter-Process communication](https://en.wikipedia.org/wiki/Inter-process_communication)
+    - File
+    - Communication file
+    - [AST - Asynchronous SYstem Trap / Signal](https://en.wikipedia.org/wiki/Asynchronous_System_Trap)
+    - Socket
+    - Unix Domiain Socket
+    - Messge Queue
+    - Anonymous Piipe
+    - Named Pipe
+    - Shared Memory
+    - Message Passing
+    - Memory-Mapped File
 
 
 
+## [Process Synchronization](https://en.wikipedia.org/wiki/Synchronization_(computer_science)#:~:text=Process%20synchronization%20refers%20to%20the,a%20certain%20sequence%20of%20action.)
 
+Classic problems of synchronization
+The following are some classic problems of synchronization:
+
+    - The Producer–Consumer Problem (also called The Bounded Buffer Problem)
+    - The Readers–Writers Problem
+    - The Dining Philosophers Problem
+
+- Implementation of Synchronization
+    - Spinlock
+    - Barriers
+    - [Semaphores](https://en.wikipedia.org/wiki/Semaphore_(programming))
+        - Binary Semaphore
+        - Counting Semaphore
+- Synchronization in Windows
+    - Interrupt masks <br/>
+    which protect access to global resources (critical section) on uniprocessor systems
+    - Spinlocks <br/> 
+    which prevent, in multiprocessor systems, spinlocking-thread from being preempted
+    - Dynamic Dispatchers <br/>
+    which act like mutexes, semaphores, events, and timers
+- Synchronization in Linux
+    - Semaphores
+    - Spinlock
+    - Barriers
+    - **Mutex** <br/>
+    readers–writer locks, for the longer section of codes which are accessed very frequently but don't change very often
+    - Read-Copy-Update (RCU)
+- [POSIX Threads](https://en.wikipedia.org/wiki/Pthreads) <br/> 
+is a platform-independent API that provides
+    - Mutexes
+    - Condition variables
+    - Readers–Writer Locks
+    - Spinlocks
+    - Barriers
 
 # Command-line
 - **Terminal** <br/>

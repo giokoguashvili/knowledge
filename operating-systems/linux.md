@@ -1,23 +1,15 @@
 # Linux Networking
 - [Linux Networking Commands with Examples](https://mindmajix.com/linux-networking-commands-best-examples)
 
-## Commands
-```
-netstat/ss 
-ifconfig/ip       
-traceroute/tracepath
-nslookup/dig
-route
-host
-hostname
-arp
-iwconfig
-tcpdump
-ping
-mtr (ping + traceroute)
-curl/wget
-whois
-```
+
+
+# Inter-process communication in Linux
+- Shared files
+- Shared memory (with semaphores)
+- Pipes (named and unnamed)
+- Message queues
+- Sockets
+- Signals
 
 # Directory Tree, File Systems & Files
 
@@ -65,6 +57,24 @@ whois
 
 # Commands
 
+## Networking 
+```
+netstat/ss 
+ifconfig/ip       
+traceroute/tracepath
+nslookup/dig
+route
+host
+hostname
+arp
+iwconfig
+tcpdump
+ping
+mtr (ping + traceroute)
+curl/wget
+whois
+```
+## Common
 ```
 uname -a
 w

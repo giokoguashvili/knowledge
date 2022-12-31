@@ -116,6 +116,14 @@ is an electronic oscillator that produces a clock signal for use in synchronizin
     - [SSD - Solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive)
     - [HDD - Hard Drive Disk](https://en.wikipedia.org/wiki/Hard_disk_drive)
 
+## Concepts
+- [MMU - Memory Management Unit](https://en.wikipedia.org/wiki/Memory_management_unit)
+    - [Virtual memory](https://en.wikipedia.org/wiki/Virtual_memory)
+- [Shared Memory Models](https://en.wikipedia.org/wiki/Shared_memory)
+    - [UMA - Uniform Memory Access](https://en.wikipedia.org/wiki/Uniform_memory_access#:~:text=Uniform%20memory%20access%20(UMA)%20is,share%20the%20physical%20memory%20uniformly.)
+    - [NUMA - Non-Uniform Memory Access](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
+    - [COMA - Cache-Only Memory Architecture](https://en.wikipedia.org/wiki/Cache-only_memory_architecture)
+    - [HSA - Heterogeneous System Architecture](https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture)
 ## [Memory Hierarchy](https://en.wikipedia.org/wiki/Memory_hierarchy)
 ![Screenshot 2022-12-29 210901](https://user-images.githubusercontent.com/8178412/209986366-cd9ab57a-dc72-4e49-9447-453d2d9b3d6e.png)
 - Registers
