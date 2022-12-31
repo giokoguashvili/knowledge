@@ -2,6 +2,7 @@
 - [Linux Networking Commands with Examples](https://mindmajix.com/linux-networking-commands-best-examples)
 
 
+# Memory 
 
 # Inter-process communication in Linux
 - Shared files
