@@ -4,7 +4,29 @@
  was the first digital mechanical calculator strong enough and reliable enough to be used daily in an office environment
 - [ENIAC](https://en.wikipedia.org/wiki/ENIAC) - founded in 1945 <br/>
 was the first programmable, electronic, general-purpose digital computer
-
+- Processors (Scalar/Vector/Superscalar)
+    - CPU
+    - GPU
+    - APU
+    - DSP
+    - FPGA
+    - ASIC
+- Memory
+    - RAM
+- Storage
+    - HDD
+    - SSD
+    - Flash Drive
+- Parallel Architectures
+    - MISD
+    - SIMD
+    - SISD
+    - MIMD
+- X
+    - CUDA Cores
+    - Tensor Cores
+    - RT Cores
+    - 
 ![Screenshot 2022-12-29 161146](https://user-images.githubusercontent.com/8178412/209950291-45616197-40c8-4371-8160-89b8a45255d0.png)
 
 - [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
@@ -46,11 +68,11 @@ A microarchitecture is a hardware implementation of an ISA (instruction set arch
 - [Instruction cycle](https://en.wikipedia.org/wiki/Instruction_cycle)
 - Multicycle microarchitecture
 - [Instruction pipelining](https://en.wikipedia.org/wiki/Instruction_pipelining)
-- [CPU cache](https://en.wikipedia.org/wiki/CPU_cache)
 - [Branch prediction](https://en.wikipedia.org/wiki/Branch_predictor)
 - [Superscalar processor](https://en.wikipedia.org/wiki/Superscalar_processor)
 - [Out-of-order execution](https://en.wikipedia.org/wiki/Out-of-order_execution)
 - [Register renaming](https://en.wikipedia.org/wiki/Register_renaming)
+- [CPU cache](https://en.wikipedia.org/wiki/CPU_cache)
 - [Multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing)
 - [Multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
 

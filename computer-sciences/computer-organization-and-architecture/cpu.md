@@ -48,7 +48,19 @@ Resources:
 is an electronic oscillator that produces a clock signal for use in synchronizing a circuit's operation
 ![Screenshot 2022-12-29 180527](https://user-images.githubusercontent.com/8178412/209966681-39087926-f490-4c6c-9857-d9f17f1db1df.png)
 
+# Interrupts
 
+- ISR - Interrupt Service Routine
+- IRQ - Interrupt Request
+- [ICR - Interrupt Control Register](https://en.wikipedia.org/wiki/Interrupt_control_register)
+- ISR - Interrupt Status Register <br/>
+    address of each ISR is stored in a fixed location in memory
+
+- Hardware Interrupt
+    - Maskable Interrupts <br/>
+    these interrupts can be delayed when the CPU receives higher priority interrupts
+    - Non-Maskable Interrupt
+- Software Interrupt 
 
 # [HDL - Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
 That can model the behavior and structure of digital systems at multiple levels of abstraction, ranging from the system level down to that of logic gates, for design entry, documentation, and verification purposes
