@@ -1,36 +1,37 @@
 # [CPU - Central Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
+
 ![Screenshot 2022-12-29 173955](https://user-images.githubusercontent.com/8178412/209962040-d0477f62-f7c6-47ff-9c0c-d811f2b043bc.png)
 
-
-
 - CPU
-    - [Single cycle processor](https://en.wikipedia.org/wiki/Single_cycle_processor)
-    - [Multi-cycle processor](https://en.wikipedia.org/wiki/Multi-cycle_processor)
+  - [Single cycle processor](https://en.wikipedia.org/wiki/Single_cycle_processor)
+  - [Multi-cycle processor](https://en.wikipedia.org/wiki/Multi-cycle_processor)
 
 - [CPU modes](https://en.wikipedia.org/wiki/CPU_modes) <br/>
 are operating modes for the central processing unit of some computer architectures that place restrictions on the type and scope of operations that can be performed by certain processes being run by the CPU
 
 ## [Control Unit](https://en.wikipedia.org/wiki/Control_unit)
+
 - Timing Unit
 - Program Counter
 - [Instruction Register - IR](https://en.wikipedia.org/wiki/Instruction_register)<br/>
-`[MODE | OPCODE | OPRAND]` 
+`[MODE | OPCODE | OPRAND]`
 - Instruction Decoder
 
 ## [ALU - Arithmetic Logic Unit](https://en.wikipedia.org/wiki/Arithmetic_logic_unit)
+
 ![Screenshot 2022-12-30 153401](https://user-images.githubusercontent.com/8178412/210066237-fe038fa3-de2e-43a1-9b59-d74622dfe318.png)
 
 - Multiplexers
 - Demultiplexers
-- Encoders 
+- Encoders
 - Decoders
 
 Resources:
+
 - [Combinational logic](https://en.wikipedia.org/wiki/Combinational_logic) - wiki
 - [Transistor Gates](http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html) - hyperphysics.phy-astr.gsu.edu
 - [Computer Logical Organization Tutorial](https://www.tutorialspoint.com/computer_logical_organization/index.htm) - tutorialspoint.com
 - [Digital Electronics Tutorial](https://www.javatpoint.com/digital-electronics) - javatpoint.com
-
 
 ## Memory Unit
 
@@ -38,32 +39,25 @@ Resources:
 - [Cache](https://en.wikipedia.org/wiki/CPU_cache)
 
 ## Instruction Cycle
+
 ![control-unit](https://user-images.githubusercontent.com/8178412/209962028-b7ea8be5-0321-4a40-88aa-6959fa1f7e58.png)
+
 - fetch
 - decode
 - execute
 - store (write-back)
 
 ## [Clock generator](https://en.wikipedia.org/wiki/Clock_generator)
+
 is an electronic oscillator that produces a clock signal for use in synchronizing a circuit's operation
 ![Screenshot 2022-12-29 180527](https://user-images.githubusercontent.com/8178412/209966681-39087926-f490-4c6c-9857-d9f17f1db1df.png)
 
-# Interrupts
 
-- ISR - Interrupt Service Routine
-- IRQ - Interrupt Request
-- [ICR - Interrupt Control Register](https://en.wikipedia.org/wiki/Interrupt_control_register)
-- ISR - Interrupt Status Register <br/>
-    address of each ISR is stored in a fixed location in memory
-
-- Hardware Interrupt
-    - Maskable Interrupts <br/>
-    these interrupts can be delayed when the CPU receives higher priority interrupts
-    - Non-Maskable Interrupt
-- Software Interrupt 
 
 # [HDL - Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
+
 That can model the behavior and structure of digital systems at multiple levels of abstraction, ranging from the system level down to that of logic gates, for design entry, documentation, and verification purposes
+
 - [VHSIC - Very High-Speed Integrated Circuit](https://en.wikipedia.org/wiki/Very_High_Speed_Integrated_Circuit_Program)
 - [Verilog](https://en.wikipedia.org/wiki/Verilog) <br/>
 - [VHDL - VHSIC Hardware Description Language](https://en.wikipedia.org/wiki/VHDL)<br/>
@@ -77,6 +71,7 @@ That can model the behavior and structure of digital systems at multiple levels 
 | More "C" like             | Non "C" like          |
 
 # [Transistors](https://en.wikipedia.org/wiki/Transistor) and [Integrated Circuits](https://en.wikipedia.org/wiki/Integrated_circuit)
+
 - [IC - Integrated Circuit](https://en.wikipedia.org/wiki/Integrated_circuit) <br/>
 all CPUs are ICs. Not all ICs are CPUs
 - [ASIC - Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)

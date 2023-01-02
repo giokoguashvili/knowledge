@@ -5,110 +5,76 @@
 - Files
 - I/O Devices
 - Network
+
 ---
+
 - Kernel
-    - [Monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel)
-    - [Microkernel](https://en.wikipedia.org/wiki/Microkernel#Nanokernel)
-    - [Exokernel](https://en.wikipedia.org/wiki/Exokernel)
-    - [Hybrid kernel](https://en.wikipedia.org/wiki/Hybrid_kernel)
-    - [Protection ring](https://en.wikipedia.org/wiki/Protection_ring)
+  - [Monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel)
+  - [Microkernel](https://en.wikipedia.org/wiki/Microkernel#Nanokernel)
+  - [Exokernel](https://en.wikipedia.org/wiki/Exokernel)
+  - [Hybrid kernel](https://en.wikipedia.org/wiki/Hybrid_kernel)
+  - [Protection ring](https://en.wikipedia.org/wiki/Protection_ring)
 
 - POSIX
 - SUS
 
-
-
 # Files & File System
 
-
 # Memory
+
 - [Virtual memory](https://en.wikipedia.org/wiki/Virtual_memory)
 - [Shared Memory Models](https://en.wikipedia.org/wiki/Shared_memory)
-    - [UMA - Uniform Memory Access](https://en.wikipedia.org/wiki/Uniform_memory_access#:~:text=Uniform%20memory%20access%20(UMA)%20is,share%20the%20physical%20memory%20uniformly.)
-    - [NUMA - Non-Uniform Memory Access](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
-    - [COMA - Cache-Only Memory Architecture](https://en.wikipedia.org/wiki/Cache-only_memory_architecture)
-    - [HSA - Heterogeneous System Architecture](https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture)
+  - [UMA - Uniform Memory Access](https://en.wikipedia.org/wiki/Uniform_memory_access#:~:text=Uniform%20memory%20access%20(UMA)%20is,share%20the%20physical%20memory%20uniformly.)
+  - [NUMA - Non-Uniform Memory Access](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
+  - [COMA - Cache-Only Memory Architecture](https://en.wikipedia.org/wiki/Cache-only_memory_architecture)
+  - [HSA - Heterogeneous System Architecture](https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture)
 
-## Garbage Collection 
+## Garbage Collection
 
 - [GC - Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 - [DGC - Distributed Garbage Collection](https://en.wikipedia.org/wiki/Distributed_garbage_collection) <br/>
 - Strategies
-    - Tracing
-    - Reference counting
-    - Cycles
-    - Space overhead (reference count)
-    - Speed overhead (increment/decrement)
-    - Requires atomicity
-    - Not real-time
-    - Escape analysis
+  - Tracing
+  - Reference counting
+  - Cycles
+  - Space overhead (reference count)
+  - Speed overhead (increment/decrement)
+  - Requires atomicity
+  - Not real-time
+  - Escape analysis
 
 # Processes
-- Independent Process <br/> 
+
+- Independent Process <br/>
 the execution of one process does not affect the execution of other processes
-- Cooperative Process <br/> 
+- Cooperative Process <br/>
 a process that can affect or be affected by other processes executing in the system
 - [Critical Section](https://en.wikipedia.org/wiki/Critical_section)
+
 ----
+
 ### Interprocess Communications
+
 - [ABI - Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface)
 - [IPC - Inter-Process communication](https://en.wikipedia.org/wiki/Inter-process_communication)
-    - File
-    - Communication file
-    - [AST - Asynchronous SYstem Trap / Signal](https://en.wikipedia.org/wiki/Asynchronous_System_Trap)
-    - Socket
-    - Unix Domiain Socket
-    - Messge Queue
-    - Anonymous Piipe
-    - Named Pipe
-    - Shared Memory
-    - Message Passing
-    - Memory-Mapped File
-
-
-
-### [Process Synchronization](https://en.wikipedia.org/wiki/Synchronization_(computer_science)#:~:text=Process%20synchronization%20refers%20to%20the,a%20certain%20sequence%20of%20action.)
-
-Classic problems of synchronization
-The following are some classic problems of synchronization:
-
-    - The Producer–Consumer Problem (also called The Bounded Buffer Problem)
-    - The Readers–Writers Problem
-    - The Dining Philosophers Problem
-
-- Implementation of Synchronization
-    - Spinlock
-    - Barriers
-    - [Semaphores](https://en.wikipedia.org/wiki/Semaphore_(programming))
-        - Binary Semaphore
-        - Counting Semaphore
-- Synchronization in Windows
-    - Interrupt masks <br/>
-    which protect access to global resources (critical section) on uniprocessor systems
-    - Spinlocks <br/> 
-    which prevent, in multiprocessor systems, spinlocking-thread from being preempted
-    - Dynamic Dispatchers <br/>
-    which act like mutexes, semaphores, events, and timers
-- Synchronization in Linux
-    - Semaphores
-    - Spinlock
-    - Barriers
-    - **Mutex** <br/>
-    readers–writer locks, for the longer section of codes which are accessed very frequently but don't change very often
-    - Read-Copy-Update (RCU)
-- [POSIX Threads](https://en.wikipedia.org/wiki/Pthreads) <br/> 
-is a platform-independent API that provides
-    - Mutexes
-    - Condition variables
-    - Readers–Writer Locks
-    - Spinlocks
-    - Barriers
+  - File
+  - Communication file
+  - [AST - Asynchronous SYstem Trap / Signal](https://en.wikipedia.org/wiki/Asynchronous_System_Trap)
+  - Socket
+  - Unix Domiain Socket
+  - Messge Queue
+  - Anonymous Piipe
+  - Named Pipe
+  - Shared Memory
+  - Message Passing
+  - Memory-Mapped File
 
 # Command-line
+
 - **Terminal** <br/>
 A terminal is a text input and output environment
 - **Console** <br/>
-A console is a physical terminal 
+A console is a physical terminal
 - **Shell** <br/>
 is an interface between the user and the operating system
 - **sh** <br/>
@@ -118,8 +84,6 @@ is a superset of sh
 - **Command-line** <br/>
 A command-line interface (CLI) is a computer program that processes commands in the form of lines of text. The user typically interacts with the shell via a command-line interface (CLI).
 
-
-
 # OS List
 
 - [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) <br/>
@@ -127,11 +91,13 @@ is a distributed operating system which originated from the Computing Science Re
 - [Phantom OS](https://en.wikipedia.org/wiki/Phantom_OS) <br/>
 it is based on a concept of persistent virtual memory, and uses a virtual machine, managed code, and bytecodes
     > Phantom OS: Persistent Operating System
-    > https://news.ycombinator.com/item?id=30283864
+    > <https://news.ycombinator.com/item?id=30283864>
 - [ReactOS](https://en.wikipedia.org/wiki/ReactOS) <br/>
 is a free and open-source operating system intended to be binary-compatible with computer programs and device drivers made for Windows Server 2003 and later versions of Windows
 
 # Books
 
 # Courses
+
 - [Архитектура операционной системы (на примере Linux), осень 2017 Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpT4SMpYl6uVYi13k0k9CBiq) - youtube.com
+- [CSE306: Operating Systems](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE306)
