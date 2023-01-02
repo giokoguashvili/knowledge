@@ -20,14 +20,7 @@
 
 # Files & File System
 
-# Memory
 
-- [Virtual memory](https://en.wikipedia.org/wiki/Virtual_memory)
-- [Shared Memory Models](https://en.wikipedia.org/wiki/Shared_memory)
-  - [UMA - Uniform Memory Access](https://en.wikipedia.org/wiki/Uniform_memory_access#:~:text=Uniform%20memory%20access%20(UMA)%20is,share%20the%20physical%20memory%20uniformly.)
-  - [NUMA - Non-Uniform Memory Access](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
-  - [COMA - Cache-Only Memory Architecture](https://en.wikipedia.org/wiki/Cache-only_memory_architecture)
-  - [HSA - Heterogeneous System Architecture](https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture)
 
 ## Garbage Collection
 

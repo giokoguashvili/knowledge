@@ -14,8 +14,6 @@
   - [SSD - Solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive)
   - [HDD - Hard Drive Disk](https://en.wikipedia.org/wiki/Hard_disk_drive)
 
-- [MMU - Memory Management Unit](https://en.wikipedia.org/wiki/Memory_management_unit)
-
 ## [Memory Hierarchy](https://en.wikipedia.org/wiki/Memory_hierarchy)
 
 ![Screenshot 2022-12-29 210901](https://user-images.githubusercontent.com/8178412/209986366-cd9ab57a-dc72-4e49-9447-453d2d9b3d6e.png)
@@ -31,4 +29,4 @@
 
 # Posts
 
-- [What every programmer should know about memory](https://lwn.net/Articles/250967/)
+- [What every programmer should know about memory](https://lwn.net/Articles/250967/) - lwn.net

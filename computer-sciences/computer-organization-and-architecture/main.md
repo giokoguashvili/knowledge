@@ -4,6 +4,7 @@
  was the first digital mechanical calculator strong enough and reliable enough to be used daily in an office environment
 - [ENIAC](https://en.wikipedia.org/wiki/ENIAC) - founded in 1945 <br/>
 was the first programmable, electronic, general-purpose digital computer
+
 - Processors (Scalar/Vector/Superscalar)
     - CPU
     - GPU
@@ -26,7 +27,7 @@ was the first programmable, electronic, general-purpose digital computer
     - CUDA Cores
     - Tensor Cores
     - RT Cores
-    - 
+
 ![Screenshot 2022-12-29 161146](https://user-images.githubusercontent.com/8178412/209950291-45616197-40c8-4371-8160-89b8a45255d0.png)
 
 - [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
@@ -75,9 +76,6 @@ A microarchitecture is a hardware implementation of an ISA (instruction set arch
 - [CPU cache](https://en.wikipedia.org/wiki/CPU_cache)
 - [Multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing)
 - [Multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
-
-
-
 
 # Books
 - [Digital Design and Computer Architecture - by by David Harris, Sarah Harris](https://g.co/kgs/ptBpJq)
