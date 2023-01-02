@@ -1,4 +1,7 @@
-# Interrupts
+# Interrupt Controller Unit
+
+![Interrupt Controller Microarchitecture](https://user-images.githubusercontent.com/8178412/210230269-b5a6ca7f-b2c7-46fd-a043-d546b7ac0a7c.png)
+
 
 - [PIC - Programmable Interrupt Controller](https://en.wikipedia.org/wiki/Programmable_interrupt_controller) <br/>
  is an integrated circuit that helps a microprocessor (or CPU) handle interrupt requests (IRQ) coming from multiple different sources (like external I/O devices) which may occur simultaneously
@@ -19,6 +22,8 @@
     these interrupts can be delayed when the CPU receives higher priority interrupts
   - Non-Maskable Interrupt
 - Software Interrupt
+
+![APIC](https://user-images.githubusercontent.com/8178412/210228890-24b01674-2252-4807-a4a5-9953bf1c90c4.png)
 
 # Sources
 

@@ -1,11 +1,13 @@
 # [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 
 
+
 - [NASM - Netwide Assembler](https://en.wikipedia.org/wiki/Netwide_Assembler) (Intel)
 - [GAS - GNU Assembler](https://en.wikipedia.org/wiki/GNU_Assembler) (AT&T)
 - MASM - Microsoft Assembler
 - TASM - Borland Turbo Assembler
 
+![c-code-gen](https://user-images.githubusercontent.com/8178412/210178033-66012b40-ed92-47dd-8c29-73061b9cbb42.png)
 
 
 # [x86 Assembly/GNU assembly syntax](https://en.wikibooks.org/wiki/X86_Assembly/GNU_assembly_syntax)
