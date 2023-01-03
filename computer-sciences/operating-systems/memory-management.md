@@ -28,6 +28,8 @@ As memory is allocated and then deallocated, there can be small spaces of memory
 
 ## Swapping
 
+## Garbage Collection 
+
 
 # Sources
 

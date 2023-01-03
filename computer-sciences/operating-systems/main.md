@@ -22,19 +22,7 @@
 
 
 
-## Garbage Collection
 
-- [GC - Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
-- [DGC - Distributed Garbage Collection](https://en.wikipedia.org/wiki/Distributed_garbage_collection) <br/>
-- Strategies
-  - Tracing
-  - Reference counting
-  - Cycles
-  - Space overhead (reference count)
-  - Speed overhead (increment/decrement)
-  - Requires atomicity
-  - Not real-time
-  - Escape analysis
 
 # Processes
 
