@@ -6,6 +6,7 @@
   - Reference counting
   - Mark and Sweep
   - Generational/Ephemeral GC
+
   - Parallel Garbage Colleciton
   - Tracing
   - Cycles
@@ -14,4 +15,9 @@
   - Requires atomicity
   - Not real-time
   - Escape analysis
-  
+
+- Atomic Instructions
+
+# Sources
+- [cs3650 13 01 garbage collection](https://www.youtube.com/watch?v=HEdQMEh1t2M) - youtube.com
+- [What is an atomic instruction?](https://www.quora.com/What-is-an-atomic-instruction) - quora.com

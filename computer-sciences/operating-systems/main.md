@@ -82,3 +82,5 @@ is a free and open-source operating system intended to be binary-compatible with
 
 - [Архитектура операционной системы (на примере Linux), осень 2017 Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpT4SMpYl6uVYi13k0k9CBiq) - youtube.com
 - [CSE306: Operating Systems](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE306)
+
+# Sources
