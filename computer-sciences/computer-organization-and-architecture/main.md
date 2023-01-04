@@ -14,10 +14,6 @@ was the first programmable, electronic, general-purpose digital computer
     - ASIC
 - Memory
     - RAM
-- Storage
-    - HDD
-    - SSD
-    - Flash Drive
 - Parallel Architectures
     - MISD
     - SIMD
@@ -78,10 +74,10 @@ A microarchitecture is a hardware implementation of an ISA (instruction set arch
 - [Multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
 
 # Books
-- [Digital Design and Computer Architecture - by by David Harris, Sarah Harris](https://g.co/kgs/ptBpJq)
+- [Digital Design and Computer Architecture](https://g.co/kgs/ptBpJq) - by David Harris, Sarah Harris
     - [RUS](https://microelectronica.pro/wp-content/uploads/books/digital-design-and-computer-architecture-russian-translation.pdf)
     - [ENG](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf)
-
+- [Digital Design and Computer Architecture, RISC-V Edition](https://g.co/kgs/CG3T7d) - by David Harris and Sarah L. Harris
 # Courses
 - [Архитектура ЭВМ Industrial - Software Engineering Online](https://www.youtube.com/playlist?list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH) - youtube.com
 - [Digital Design & Computer Architecture - ETH Zürich (Spring 2020) Onur Mutlu Lectures](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2) - youtube.com
