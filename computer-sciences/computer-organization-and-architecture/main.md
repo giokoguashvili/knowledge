@@ -16,7 +16,7 @@ was the first programmable, electronic, general-purpose digital computer
     - RAM
 - Parallel Architectures
     - MISD
-    - SIMD
+    - [SIMD - Single-Instruction Multiple-Data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)
     - SISD
     - MIMD
 - X
