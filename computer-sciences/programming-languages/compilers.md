@@ -1,5 +1,13 @@
 # LLVM
 
+- LLVM
+- GCC
+- Clang
+
+- Go
+- Rust
+- Zig
+
 ![gnu-build-process](https://user-images.githubusercontent.com/8178412/210178032-05870a3a-2729-4f74-ba8d-058485d737c1.png)
 
 - https://llvm.org/
