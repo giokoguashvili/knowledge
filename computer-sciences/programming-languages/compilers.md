@@ -1,5 +1,6 @@
 # LLVM
 
+![LLVM-GCC](https://sites.google.com/site/whatisllvm/_/rsrc/1395111959981/project-definition/GCC%20vs%20LLVM.png)
 - LLVM
 - GCC
 - Clang
