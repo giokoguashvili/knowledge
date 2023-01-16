@@ -1,15 +1,32 @@
 # Physics
 
+![image](https://user-images.githubusercontent.com/8178412/212655444-6a08bc24-6a61-4697-90b5-aeff2e8a7cc8.png)
+
 - [Matter](https://en.wikipedia.org/wiki/Matter) <br/>
 is any substance that has mass and takes up space by having volume
 - [Forces](https://en.wikipedia.org/wiki/Force) <br/>
 is an influence that can change the motion of an object
-- [Carrier Particles](https://en.wikipedia.org/wiki/Force_carrier) <br/>
+    - Fundamental forces
+        - Gravitational
+        - Electromagnetic
+        - Strong nuclear
+        - Weak nuclear
+    - Non-fundamental forces
+        - Normal force
+        - Friction
+        - Tension
+        - Elastic force
+        - Continuum mechanics
+        - Fictitious forces
+- [Force Carrier Particles](https://en.wikipedia.org/wiki/Force_carrier) <br/>
 also known as messenger particle or intermediate particle, is a type of particle that gives rise to forces between other particles
+
+
+
 
 # [List of Particles](https://en.wikipedia.org/wiki/List_of_particles)
 
-![image](https://user-images.githubusercontent.com/8178412/212655444-6a08bc24-6a61-4697-90b5-aeff2e8a7cc8.png)
+![screen](https://user-images.githubusercontent.com/8178412/212655556-07c82a7f-8789-476b-8883-949cd22ef361.png)
 
 - Elementary particles
     - Fermions
@@ -21,7 +38,7 @@ also known as messenger particle or intermediate particle, is a type of particle
         - Particles predicted by supersymmetric theories
         - Other hypothetical bosons and fermions
         - Other hypothetical elementary particles
-- Composite particles
+    - Composite particles
     - Hadrons
         - Baryons
         - Mesons
@@ -30,7 +47,6 @@ also known as messenger particle or intermediate particle, is a type of particle
         - Leptonic atoms
     - Molecules
     - Ions
-
 
 # Elementary Particles
 
@@ -44,8 +60,6 @@ also known as messenger particle or intermediate particle, is a type of particle
     - Leptons
 
 ![image](https://user-images.githubusercontent.com/8178412/212659952-c78e59c9-1856-42b4-ac99-29cc30b61868.png)
-
-![screen](https://user-images.githubusercontent.com/8178412/212655556-07c82a7f-8789-476b-8883-949cd22ef361.png)
 
 ## [Antiparticles](https://en.wikipedia.org/wiki/Antiparticle)
  every type of particle is associated with an antiparticle with the same mass but with opposite physical charges
@@ -90,3 +104,8 @@ is a material formed by chemically bonding two or more chemical elements
 
 
 > `Quarks -> Hadrons -> Electron -> Athom -> Molecule`
+
+
+# Sources
+- [Большой Адронный коллайдер. Как появился Интернет? / Алексей Семихатов](https://www.youtube.com/watch?v=63hDejHe-wI) - youtube.com
+- [Что такое Бозон Хиггса простыми словами](https://www.youtube.com/watch?v=p3vr367lAfM) - youtube.com
