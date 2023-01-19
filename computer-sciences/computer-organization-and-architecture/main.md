@@ -5,6 +5,8 @@
 - [ENIAC](https://en.wikipedia.org/wiki/ENIAC) - founded in 1945 <br/>
 was the first programmable, electronic, general-purpose digital computer
 
+- Devices
+    - [PLC - Programmable logic controller](https://en.wikipedia.org/wiki/Programmable_logic_controller)
 - Processors (Scalar/Vector/Superscalar)
     - CPU
     - GPU
@@ -12,6 +14,7 @@ was the first programmable, electronic, general-purpose digital computer
     - DSP
     - FPGA
     - ASIC
+
 - Memory
     - RAM
 - Parallel Architectures
