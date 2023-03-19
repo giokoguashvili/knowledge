@@ -39,6 +39,11 @@ In summary, MLPs are primarily used for classification and regression tasks, CNN
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 
-### Repos:
+# Videos
+
+- [AI - Giorgi Koguashvili](https://www.youtube.com/playlist?list=PL2XGvKfYRbDt7AUAMAhctVC9SZsGknyFp)
+- [Neural networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+# Repos
 
 - [:octocat:](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/blob/master/neural-nets.md)

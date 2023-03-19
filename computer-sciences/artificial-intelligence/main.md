@@ -21,6 +21,11 @@ In summary, while both machine learning and deep learning involve training algor
 
 
 ### Posts
+
 - [SIMPLIFYING THE DIFFERENCE: MACHINE LEARNING VS DEEP LEARNING](https://www.scs.org.sg/articles/machine-learning-vs-deep-learning)
+
+### Videos
+
+- [MIT 6.S191: Introduction to Deep Learning - Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 [Images](https://github.com/giokoguashvili/knowledge/issues/1#issuecomment-1475355532)
