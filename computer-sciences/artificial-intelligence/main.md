@@ -24,6 +24,8 @@ In summary, while both machine learning and deep learning involve training algor
 - AGI - Artificial General Intelligence (Strong AI)
 - GPT - Generative Pre-trained Transformer
 - RLHF - Reinforcement Learning with Human Heedback
+- LLM - Large Language Models
+
 ### Posts
 
 - [SIMPLIFYING THE DIFFERENCE: MACHINE LEARNING VS DEEP LEARNING](https://www.scs.org.sg/articles/machine-learning-vs-deep-learning)
