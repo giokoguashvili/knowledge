@@ -9,5 +9,9 @@
 - Space on Disk
 - Recovery Point Objective (RPO)
 - Recovery Time Objective (RTO)
+- Recovery Point Objective (RPO)
+- Recovery Level Objective (RLO)
 - Backup Speed
 - Strategy Simplicity
+
+

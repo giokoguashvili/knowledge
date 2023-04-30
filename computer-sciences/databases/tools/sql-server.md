@@ -8,6 +8,8 @@ is a marketing term which refers to the high availability and disaster recovery 
 is a traditional failover clustering solution where all nodes in the cluster have access to the shared storage. In case of a failure, the SQL Server instance fails over to another node in the cluster
   - [Availability Group (AG)](https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/overview-of-always-on-availability-groups-sql-server): <br/>
  is a more advanced HA solution that provides high availability and disaster recovery. It allows you to create a group of databases that can fail over together to another replica (instance)
+  - [Contained Availability Group](https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/contained-availability-groups-overview) <br/>
+  you can create an availability group without having to create an external cluster or Windows Server Failover Clustering (WSFC) environment
   - [Basic Availability Group (BAG)](https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/basic-availability-groups-always-on-availability-groups?view=sql-server-ver16): <br/>
    replaces the deprecated Database Mirroring feature and provides a similar level of feature support
   - [Distributed Availability Group (DAG)](https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/distributed-availability-groups): <br/>
@@ -17,9 +19,14 @@ is a traditional failover clustering solution where all nodes in the cluster hav
 - Database Mirroring (Depricated)
 - Replication
 - Log Shipping
-- Linked Server
+
 - Change Trackong 
 - Change Data Capture
+- Temporal Tables
+
+- Linked Server
+
+
 
 # Services
 
@@ -52,3 +59,11 @@ DQS is not an absolute. Provides an assessment of potentially incorrect data bas
  - **Monitoring:** Tracking and determination of the state of data quality activities
  - **Knowledge Base:** Data Quality Sevices is a knowledge-driven solution that analyzes data based upon knowledge that you build with DQS
  
+
+ ### Posts
+- [SQL Server High Availability and Disaster Recovery Plan](https://www.red-gate.com/simple-talk/databases/sql-server/learn/sql-server-high-availability-and-disaster-recovery-plan/)
+
+### Videos
+- [SQL Server High Availability and Disaster Recovery overview](https://www.youtube.com/watch?v=AXGKJAjjWLY)
+- [SQL Server Temporal Tables vs Change Data Capture vs Change Tracking - part 3](https://www.mssqltips.com/sqlservertip/5144/sql-server-temporal-tables-vs-change-data-capture-vs-change-tracking-part-3/)
+- [Availability Group Readable Secondaries – Just Say No](https://www.sqlskills.com/blogs/jonathan/availability-group-readable-secondaries-just-say-no/)
