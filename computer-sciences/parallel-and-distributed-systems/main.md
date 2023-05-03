@@ -1,0 +1,4 @@
+- MIMD - Multiple instruction, multiple data
+- Computer Organization and Architecture
+- MPP - Massive Parallel Processing
+- MPI - Message Passing INterface
