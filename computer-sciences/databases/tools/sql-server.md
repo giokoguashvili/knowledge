@@ -16,6 +16,9 @@ is a traditional failover clustering solution where all nodes in the cluster hav
   A distributed availability group is a special type of availability group that spans two separate availability groups. The availability groups that participate in a distributed availability group don't need to be in the same location. They can be physical, virtual, on-premises, in the public cloud, or anywhere that supports an availability group deployment
   - [Read-Scale Availability Groups without Cluster](https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/read-scale-availability-groups?view=sql-server-ver16#read-scale-availability-groups-without-cluster) <br/>
   secondary replicas were configured for read operations. If high availability wasn't the goal, considerable operational overhead was expended to configure and operate a cluster. SQL Server 2017 introduces read-scale availability groups without a cluster
+- [SQL Server Audit](https://learn.microsoft.com/en-us/sql/relational-databases/security/auditing/sql-server-audit-database-engine)
+ is a feature in Microsoft SQL Server that provides a framework for tracking and logging events that occur in a SQL Server instance. With SQL Server Audit, you can create audit policies that define which events to audit, where to store audit information, and how to manage audit data
+
 - Database Mirroring (Depricated)
 - Replication
 - Log Shipping
