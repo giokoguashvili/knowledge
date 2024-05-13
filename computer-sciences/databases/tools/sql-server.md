@@ -19,11 +19,11 @@ is a traditional failover clustering solution where all nodes in the cluster hav
 - [SQL Server Audit](https://learn.microsoft.com/en-us/sql/relational-databases/security/auditing/sql-server-audit-database-engine)
  is a feature in Microsoft SQL Server that provides a framework for tracking and logging events that occur in a SQL Server instance. With SQL Server Audit, you can create audit policies that define which events to audit, where to store audit information, and how to manage audit data
 
-- Database Mirroring (Depricated)
+- Database Mirroring (Deprecated)
 - Replication
 - Log Shipping
 
-- Change Trackong 
+- Change Tracking 
 - Change Data Capture
 - Temporal Tables
 
